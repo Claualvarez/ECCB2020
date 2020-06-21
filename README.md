@@ -1,9 +1,10 @@
 # ECCB2020
+##  Introduction to structural bioinformatics for evolutionary analysis
 Three-dimensional structure analyses can provide a biophysical understanding of how proteins work and evolve. Most evolutionary studies are based solely on sequence data. However, point mutations and sequence rearrangements have implications for protein structure. This tutorial will familiarize participants with straightforward bioinformatics protocols for combining evolutionary information and biophysical understanding of proteins. Furthermore, many proteins contain unstructured regions in their native state. We will provide cutting edge bioinformatics algorithms to analyze both folded protein domains and intrinsically disordered proteins and regions. We will focus on protein structure classification, structure comparison methods and evolutionary analyses.  
 
 This workshop is intended for a beginner level audience. No previous experience in structural bioinformatics is required. During the first part of the workshop, participants will learn how to access structural data resources and how to select, retrieve and manipulate quality information. Next, we will introduce algorithms to evaluate the roles of specific residues in function and fold conservation. In the last part of the workshop, we will focus on tools for integrating structure information and evolutionary models.
 
-## Schedule
+### Schedule
 
 | Time          | Activity |
 | :-----------: | :-----|
@@ -15,7 +16,7 @@ This workshop is intended for a beginner level audience. No previous experience 
 | 19:50 – 20.00 | Wrap-up and feedback | 
 
  
-## Learning outcomes
+### Learning outcomes
 By the end of the workshop, attendants should be able to:
 - Search for structures in the Protein Data Bank and protein structure classification databases.
 - Know how to use web-based and command line algorithms for structure superimposition.
@@ -24,7 +25,7 @@ By the end of the workshop, attendants should be able to:
 - Predict intrinsically disordered regions in amino acid sequences.
 - Use structure superimposition to guide phylogenetic analysis.
 
-## Tutorial instructors
+### Tutorial instructors
 **Claudia Alvarez Carreño, MD, PhD** \
 Postdoctoral fellow, Georgia Institute of Technology, USA\
 email: ccarreno6(at)gatech.edu	
