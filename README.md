@@ -27,12 +27,12 @@ By the end of the workshop, attendants should be able to:
 ## Tutorial instructors
 **Claudia Alvarez Carreño, MD, PhD** \
 Postdoctoral fellow, Georgia Institute of Technology, USA\
-email: ccarreno6@gatech.edu	
+email: ccarreno6(at)gatech.edu	
 
 **Alma Carolina Sanchez Rocha, MSc** \
 PhD student, Charles University, Prague\
-email: sanchezalm@natur.cuni.cz
+email: sanchezalm(at)natur.cuni.cz
 
 **Vyacheslav Tretyachenko, MSc** \
 PhD student, Charles University, Prague\
-email: vyacheslav.tretyachenko@natur.cuni.cz	
+email: vyacheslav.tretyachenko(at)natur.cuni.cz	
