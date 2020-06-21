@@ -14,4 +14,7 @@ By the end of the workshop, attendants should be able to:
 - Use structure superimposition to guide phylogenetic analysis.
 
 ## Schedule
-17.00 – 17.40 
+
+| 17.00 – 17.40 | Introduction to web tools for protein structure classification |
+| :-----------: | :---------:|
+ 
