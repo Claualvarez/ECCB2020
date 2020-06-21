@@ -15,8 +15,12 @@ By the end of the workshop, attendants should be able to:
 
 ## Schedule
 
-| 17.00 – 17.40 | Introduction to web tools for protein structure classification |
 | :-----------: | :---------:|
+| 17.00 – 17.40 | Introduction to web tools for protein structure classification |
 | 17:40 – 18:20 | Searching for homologous protein structures |
+| 18:20 – 19:50 | Overview of pairwise structure superimposition tools |
+| 18:50 – 19:20 | Correspondences between protein sequence and structure |
+| 19:20 – 19.50 | Conservation and covariation |
+| 19:50 – 20.00 | Wrap-up and feedback | 
 
  
