@@ -7,7 +7,7 @@ This workshop is intended for a beginner level audience. No previous experience 
 
 | Time          | Activity |
 | :-----------: | :-----|
-| 17.00 – 17.40 | Introduction to web tools for protein structure classification |
+| 17.00 – 17.40 | [Introduction to web tools for protein structure classification](https://github.com/Claualvarez/ECCB2020/blob/master/Introduction.md) |
 | 17:40 – 18:20 | Searching for homologous protein structures |
 | 18:20 – 19:50 | Overview of pairwise structure superimposition tools |
 | 18:50 – 19:20 | Correspondences between protein sequence and structure |
