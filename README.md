@@ -12,3 +12,6 @@ By the end of the workshop, attendants should be able to:
 - Identify conserved motifs in sequence and in structure.
 - Predict intrinsically disordered regions in amino acid sequences.
 - Use structure superimposition to guide phylogenetic analysis.
+
+## Schedule
+17.00 – 17.40 
