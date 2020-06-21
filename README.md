@@ -4,7 +4,7 @@ Three-dimensional structure analyses can provide a biophysical understanding of 
 This workshop is intended for a beginner level audience. No previous experience in structural bioinformatics is required. During the first part of the workshop, participants will learn how to access structural data resources and how to select, retrieve and manipulate quality information. Next, we will introduce algorithms to evaluate the roles of specific residues in function and fold conservation. In the last part of the workshop, we will focus on tools for integrating structure information and evolutionary models.
 
 
-##Learning outcomes
+## Learning outcomes
 By the end of the workshop, attendants should be able to:
 - Search for structures in the Protein Data Bank and protein structure classification databases.
 - Know how to use web-based and command line algorithms for structure superimposition.
