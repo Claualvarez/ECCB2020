@@ -23,7 +23,7 @@ By the end of the workshop, attendants should be able to:
 - Calculate widely used scores to evaluate structure superimposition.
 - Identify conserved motifs in sequence and in structure.
 - Predict intrinsically disordered regions in amino acid sequences.
-- Use structure superimposition to guide phylogenetic analysis.
+- Use structure superimposition to guide phylogenetic analyses.
 
 ### Tutorial instructors
 **Claudia Alvarez Carreño, MD, PhD** \
