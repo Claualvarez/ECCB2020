@@ -17,4 +17,6 @@ By the end of the workshop, attendants should be able to:
 
 | 17.00 – 17.40 | Introduction to web tools for protein structure classification |
 | :-----------: | :---------:|
+| 17:40 – 18:20 | Searching for homologous protein structures |
+| :-----------: | :---------:|
  
