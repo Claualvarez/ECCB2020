@@ -25,14 +25,14 @@ By the end of the workshop, attendants should be able to:
 - Use structure superimposition to guide phylogenetic analysis.
 
 ## Tutorial instructors
-Claudia Alvarez Carreño, MD, PhD \
+**Claudia Alvarez Carreño, MD, PhD** \
 Postdoctoral fellow, Georgia Institute of Technology, USA\
 email: ccarreno6@gatech.edu	
 
-Alma Carolina Sanchez Rocha, MSc \
+**Alma Carolina Sanchez Rocha, MSc** \
 PhD student, Charles University, Prague\
 email: sanchezalm@natur.cuni.cz
 
-Vyacheslav Tretyachenko, MSc \
+**Vyacheslav Tretyachenko, MSc** \
 PhD student, Charles University, Prague\
 email: vyacheslav.tretyachenko@natur.cuni.cz	
