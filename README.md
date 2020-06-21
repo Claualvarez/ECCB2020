@@ -1,4 +1,4 @@
-# ECCB2020
+# ECCB2020 Tutorial
 ##  Introduction to structural bioinformatics for evolutionary analysis
 Three-dimensional structure analyses can provide a biophysical understanding of how proteins work and evolve. Most evolutionary studies are based solely on sequence data. However, point mutations and sequence rearrangements have implications for protein structure. This tutorial will familiarize participants with straightforward bioinformatics protocols for combining evolutionary information and biophysical understanding of proteins. Furthermore, many proteins contain unstructured regions in their native state. We will provide cutting edge bioinformatics algorithms to analyze both folded protein domains and intrinsically disordered proteins and regions. We will focus on protein structure classification, structure comparison methods and evolutionary analyses.  
 
