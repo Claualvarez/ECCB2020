@@ -11,7 +11,7 @@ This workshop is intended for a beginner level audience. No previous experience 
 | 17:40 – 18:20 | [Searching for homologous protein structures](https://github.com/Claualvarez/ECCB2020/blob/master/Searching.md) |
 | 18:20 – 19:50 | [Overview of pairwise structure superimposition tools](https://github.com/Claualvarez/ECCB2020/blob/master/Superimposition.md) |
 | 18:50 – 19:20 | Correspondences between protein sequence and structure |
-| 19:20 – 19.50 | Conservation and covariation |
+| 19:20 – 19.50 | [Conservation and covariation](https://github.com/Claualvarez/ECCB2020/blob/master/Conservation_and_covariation.md) |
 | 19:50 – 20.00 | Wrap-up and feedback | 
 
  
