@@ -24,7 +24,7 @@ By the end of the workshop, attendants should be able to:
 - Predict intrinsically disordered regions in amino acid sequences.
 - Use structure superimposition to guide phylogenetic analysis.
 
-Tutorial instructors
+##Tutorial instructors
 Claudia Alvarez Carreño, MD, PhD Postdoctoral fellow, Georgia Institute of Technology, USA
 email: ccarreno6@gatech.edu	
 
