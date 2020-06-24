@@ -7,4 +7,6 @@
 - By sequence similarity: 
   - RCSB PDB
   - [HHpred](https://toolkit.tuebingen.mpg.de/tools/hhpred)
-- By structure similarity: PDBeFold, PDB search
+- By structure similarity: 
+  - PDBeFold 
+  - PDB search
