@@ -1,5 +1,5 @@
 ## Searching for homologous protein structures
-- By annotation: 
+- By annotation (information-driven search approach): 
   - RCSB PDB 
   - [CATH](https://www.cathdb.info/)
   - [SCOPe](https://scop.berkeley.edu/)
