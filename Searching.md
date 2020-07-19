@@ -18,5 +18,5 @@ your search as well as on the problem you are trying to solve.
   - [RCSB PDB](https://www.rcsb.org/) 
   - [HHpred](https://toolkit.tuebingen.mpg.de/tools/hhpred)
 - By structure similarity: 
-  - PDBeFold 
-  - PDB search
+  - [PDBeFold](https://www.ebi.ac.uk/msd-srv/ssm/) 
+  - [DALI ̣- PDB search](http://ekhidna2.biocenter.helsinki.fi/dali/)
