@@ -1,8 +1,7 @@
 ## Searching for homologous protein structures
 
 ### Basic concepts
-**Analogy** \
-**Homology** 
+**Analogy vs. Homology** 
 - **Orthologs**
 - **Paralogs**
 
