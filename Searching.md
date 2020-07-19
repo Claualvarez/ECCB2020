@@ -1,9 +1,6 @@
 ## Searching for homologous protein structures
 
-There are two main strategies to identify and collect the structural data 
-of your molecule of interest. 
-
-1) Information-driven search.
+There are two approaches to retrieve protein structural data: 1) by annotation; or 2) by similarity.
 
 - By annotation (information-driven search approach): 
   - RCSB PDB 
