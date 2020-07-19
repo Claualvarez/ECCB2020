@@ -19,4 +19,4 @@ your search as well as on the problem you are trying to solve.
   - [HHpred](https://toolkit.tuebingen.mpg.de/tools/hhpred)
 - By structure similarity: 
   - [PDBeFold](https://www.ebi.ac.uk/msd-srv/ssm/) 
-  - [DALI ̣- PDB search](http://ekhidna2.biocenter.helsinki.fi/dali/)
+  - [DALI - PDB search](http://ekhidna2.biocenter.helsinki.fi/dali/)
