@@ -2,7 +2,7 @@
 
 ### Basic concepts
 **Analogy** \
-**Homology** \
+**Homology** 
 - **Orthologs**
 - **Paralogs**
 
