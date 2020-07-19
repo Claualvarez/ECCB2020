@@ -1,7 +1,15 @@
 ## Overview of pairwise structure superimposition tools:
-- Sequential: DaliLite, CE, and TM-align
-- Non sequential: GANGSTA+, MICAN and CLICK
+- Sequential: 
+  - [DALI - Pairwise](http://ekhidna2.biocenter.helsinki.fi/dali/)
+  - CE
+  - TM-align
+- Non sequential
+  - GANGSTA+
+  - MICAN
+  - CLICK
 - Flexible
+  - Fatcat
+  - Rapido
 
 ## Scoring functions
 - DALI Z-score, TM-score and SO-score
