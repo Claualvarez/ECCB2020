@@ -10,12 +10,12 @@ The choice of strategy will depend on the type of information you have at the be
 your search as well as on the problem you are trying to solve.
 
 - By annotation (information-driven search approach): 
-  - RCSB PDB 
+  - [RCSB PDB](https://www.rcsb.org/) 
   - [CATH](https://www.cathdb.info/)
   - [SCOPe](https://scop.berkeley.edu/)
   - [ECOD](http://prodata.swmed.edu/ecod/)
 - By sequence similarity: 
-  - RCSB PDB
+  - [RCSB PDB](https://www.rcsb.org/) 
   - [HHpred](https://toolkit.tuebingen.mpg.de/tools/hhpred)
 - By structure similarity: 
   - PDBeFold 
