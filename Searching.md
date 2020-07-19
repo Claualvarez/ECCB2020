@@ -3,7 +3,7 @@
 ### Basic concepts
 **Analogy** \
 **Homology** \
-- **Orthologs**\
+- **Orthologs**
 - **Paralogs**
 
 There are two approaches to retrieve protein structural data: by annotation; or by similarity.\
