@@ -2,7 +2,9 @@
 
 ### Basic concepts
 **Analogy** \
-**Homology** 
+**Homology** \
+**Orthologs**\
+**Paralogs**
 
 There are two approaches to retrieve protein structural data: by annotation; or by similarity.\
 The choice of strategy will depend on the type of information you have at the beginning of 
