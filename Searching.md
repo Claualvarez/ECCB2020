@@ -2,8 +2,13 @@
 
 ### Basic concepts
 **Analogy vs. Homology** 
-- **Orthologs**
-- **Paralogs**
+Orthology is the phylogenetic relationship where sequence divergence follows speciation.
+Paralogs originate by gene duplication.
+
+Multiple homologs in the same genome will always be paralogous.
+
+Divergence via gene duplication precedes speciation.
+
 
 There are two approaches to retrieve protein structural data: by annotation; or by similarity.\
 The choice of strategy will depend on the type of information you have at the beginning of 
