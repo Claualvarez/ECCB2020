@@ -2,8 +2,9 @@
 
 ### Basic concepts
 **Analogy vs. Homology** 
-Orthology is the phylogenetic relationship where sequence divergence follows speciation.
-Paralogs originate by gene duplication.
+Orthology is the phylogenetic relationship where sequence divergence follows speciation. Fitch (2000) Trends in Genetics 16(5)
+
+Paralogs originate by gene duplication. Jensen (2001) Genome Biol 2(8)
 
 Multiple homologs in the same genome will always be paralogous.
 
