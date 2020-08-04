@@ -26,3 +26,6 @@ your search, as well as on the problem you are trying to solve.
 - By structure similarity: 
   - [PDBeFold](https://www.ebi.ac.uk/msd-srv/ssm/) 
   - [DALI - PDB search](http://ekhidna2.biocenter.helsinki.fi/dali/)
+
+## Firther reading
+> Fitch WM. Homology a personal view on some of the problems.\ Trends Genet. 2000;16(5):227-231. doi:10.1016/s0168-9525(00)02005-9
