@@ -10,6 +10,7 @@
 - Flexible
   - Fatcat
   - Rapido
+- Other: MetalS2
 
 ## Scoring functions
 - DALI Z-score, TM-score and SO-score
