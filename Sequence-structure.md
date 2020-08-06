@@ -1,5 +1,7 @@
 ### Sequence rearrangements
 
+> Kovacs NA, Penev PI, Venapally A, Petrov AS, Williams LD. Circular Permutation Obscures Universality of a Ribosomal Protein. J Mol Evol. 2018;86(8):581-592. doi:10.1007/s00239-018-9869-1
+
 ### Fold change
 
 > Grishin NV. Fold change in evolution of protein structures. J Struct Biol.
