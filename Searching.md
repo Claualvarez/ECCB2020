@@ -11,6 +11,8 @@ Multiple homologs in the same genome will always be paralogous.
 Divergence via gene duplication precedes speciation.
 
 
+**Structural homology?**
+
 There are two approaches to retrieve protein structural data: by annotation; or by similarity.\
 The choice of strategy will depend on the type of information you have at the beginning of 
 your search, as well as on the problem you are trying to solve.
