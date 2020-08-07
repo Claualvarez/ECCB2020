@@ -2,7 +2,7 @@
 - Sequential: 
   - [DALI - Pairwise](http://ekhidna2.biocenter.helsinki.fi/dali/)
   - CE
-  - TM-align
+  - [TM-align](https://zhanglab.ccmb.med.umich.edu/TM-align/)
 - Non sequential
   - GANGSTA+
   - MICAN
