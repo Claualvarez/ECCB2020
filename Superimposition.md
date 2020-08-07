@@ -1,9 +1,9 @@
 ## Overview of pairwise structure superimposition tools:
 - Sequential: 
-  - [DALI - Pairwise](http://ekhidna2.biocenter.helsinki.fi/dali/)
-  - CE
-  - [TM-align](https://zhanglab.ccmb.med.umich.edu/TM-align/)
+
 - Non sequential
+  - [DALI - Pairwise](http://ekhidna2.biocenter.helsinki.fi/dali/)
+  - [TM-align](https://zhanglab.ccmb.med.umich.edu/TM-align/)
   - GANGSTA+
   - MICAN
   - CLICK
