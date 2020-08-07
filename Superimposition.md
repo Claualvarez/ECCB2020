@@ -4,7 +4,6 @@
 - Non sequential
   - [DALI - Pairwise](http://ekhidna2.biocenter.helsinki.fi/dali/)
   - [TM-align](https://zhanglab.ccmb.med.umich.edu/TM-align/)
-  - GANGSTA+
   - MICAN
   - CLICK
 - Flexible
