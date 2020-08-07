@@ -14,6 +14,7 @@ Divergence via gene duplication precedes speciation.
 
 **What about _structural homology_?**
 
+_____
 There are two approaches to retrieve protein structural data: by annotation; or by similarity.  
 The choice of strategy will depend on the type of information you have at the beginning of 
 your search, as well as on the problem you are trying to solve.
