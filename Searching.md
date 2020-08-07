@@ -1,7 +1,8 @@
 ## Searching for homologous protein structures
 
 ### Basic concepts
-**Analogy vs. Homology** 
+#### Analogy vs. Homology
+**Types of homologs**
 Orthology is the phylogenetic relationship where sequence divergence follows speciation. Fitch (2000) Trends in Genetics 16(5)
 
 Paralogs originate by gene duplication. Jensen (2001) Genome Biol 2(8)
@@ -11,7 +12,7 @@ Multiple homologs in the same genome will always be paralogous.
 Divergence via gene duplication precedes speciation.
 
 
-**Structural homology?**
+**What about structural homology?**
 
 There are two approaches to retrieve protein structural data: by annotation; or by similarity.\
 The choice of strategy will depend on the type of information you have at the beginning of 
