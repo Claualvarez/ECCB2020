@@ -2,6 +2,9 @@
 
 ### Basic concepts
 #### Analogy vs. Homology
+
+https://www.sta.be.ch/sta/en/index/staatsarchiv/staatsarchiv/genealogie/_jcr_content/middlePar/textbild_0/image.jpg
+
 **Types of homologs**  
 Orthology is the phylogenetic relationship where sequence divergence follows speciation. Fitch (2000) Trends in Genetics 16(5)
 
