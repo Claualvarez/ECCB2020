@@ -5,7 +5,7 @@
 ![](https://www.sta.be.ch/sta/en/index/staatsarchiv/staatsarchiv/genealogie/_jcr_content/middlePar/textbild_0/image.jpg)
 
 ![](https://tedideas.files.wordpress.com/2016/04/nmicrobiol201648-f11.jpg?w=770&h=893)
-**Types of homologs**  
+##### Types of homologs
 Orthology is the phylogenetic relationship where sequence divergence follows speciation. Fitch (2000) Trends in Genetics 16(5)
 
 Paralogs originate by gene duplication. Jensen (2001) Genome Biol 2(8)
