@@ -23,7 +23,7 @@ The choice of strategy will depend on the type of information you have at the be
 your search, as well as on the problem you are trying to solve.
 
 - By annotation (information-driven search approach): 
-  - [RCSB PDB](https://www.rcsb.org/) 
+  - PDB database: [RCSB_PDB](https://www.rcsb.org/); [PDBe](https://www.ebi.ac.uk/pdbe/); [PDBj](https://pdbj.org/)
   - [CATH](https://www.cathdb.info/)
   - [SCOPe](https://scop.berkeley.edu/)
   - [ECOD](http://prodata.swmed.edu/ecod/)
