@@ -23,10 +23,8 @@ The choice of strategy will depend on the type of information you have at the be
 your search, as well as on the problem you are trying to solve.
 
 - By annotation (information-driven search approach): 
-  - PDB database: [RCSB_PDB](https://www.rcsb.org/); [PDBe](https://www.ebi.ac.uk/pdbe/); [PDBj](https://pdbj.org/)
-  - [CATH](https://www.cathdb.info/)
-  - [SCOPe](https://scop.berkeley.edu/)
-  - [ECOD](http://prodata.swmed.edu/ecod/)
+  - **The Protein Data Bank database:** [RCSB_PDB](https://www.rcsb.org/); [PDBe](https://www.ebi.ac.uk/pdbe/); [PDBj](https://pdbj.org/)
+  - **Structure classification databases:** [CATH](https://www.cathdb.info/); [SCOPe](https://scop.berkeley.edu/); [ECOD](http://prodata.swmed.edu/ecod/)
 - By sequence similarity: 
   - [RCSB PDB](https://www.rcsb.org/) 
   - [HHpred](https://toolkit.tuebingen.mpg.de/tools/hhpred)
