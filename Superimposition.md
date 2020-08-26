@@ -8,7 +8,7 @@
 | [MICAN](http://www.tbp.cse.nagoya-u.ac.jp/MICAN/index.html)   | Multiple-chains, Inverse alignments, C α only models, Alternative alignments, and Non-sequential alignments | non-sequential |
 | [CLICK](http://cospi.iiserpune.ac.in/click/) | Topology-independent 3D structure comparison | non-sequential |
 | [Rapido](http://rapido.embl-hamburg.de/) | Rapid Alignment of Protein structures In the presence of Domain mOvements | sequential, flexible |
-| [MetalS2](http://metalweb.cerm.unifi.it/tools/metals2/)| Pairwise structural alignment of Minimal Functional Sites in metal-binding biological macromolecules | Other |
+| [MetalS2](http://metalweb.cerm.unifi.it/tools/metals2/)| Pairwise structural alignment of Minimal Functional Sites in metal-binding biological macromolecules | non-sequential, other |
 
 http://www.rcsb.org/pdb/workbench/workbench.do
 
