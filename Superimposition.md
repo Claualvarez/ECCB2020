@@ -1,8 +1,8 @@
 ## Overview of pairwise structure superimposition tools:
 
 | Name          | Description   | Type  |
-| ------------- |:-------------:| -----:|
-| [DALI](http://ekhidna2.biocenter.helsinki.fi/dali/)     | right-aligned | $1600 |
+| ------------- |---------------| -----|
+| [DALI](http://ekhidna2.biocenter.helsinki.fi/dali/) | Distance‐matrix ALIgnment | non-sequential* |
 | TM-align | centered      |   $12 |
 | CE.      | are neat      |    $1 |
 
