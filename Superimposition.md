@@ -13,6 +13,9 @@ In this tutorial we will use only a few of them.
 | [Rapido](http://rapido.embl-hamburg.de/) | Rapid Alignment of Protein structures In the presence of Domain mOvements | sequential, flexible |
 | [MetalS2](http://metalweb.cerm.unifi.it/tools/metals2/)| Pairwise structural alignment of Minimal Functional Sites in metal-binding biological macromolecules | non-sequential, other |
 
+
+_______
+## Exercise 1
 Let's start by aligning two structures that share a homologous domain.
 1. Download the PDB coordinates files of [Bacteriohemeritrin](http://www.rcsb.org/structure/4XPX) from _Methylococcus capsulatus str. Bath_ and the [Hypothetical protein NMB1532](http://www.rcsb.org/structure/2P0N) from _Neisseria meningitidis MC58_ and save them in your working_directory. 
 
@@ -31,6 +34,11 @@ Let's start by aligning two structures that share a homologous domain.
 
 ![TM-align structure superimposition](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/TMalign_output-visualization.png)
   - PDB files
+  
+_______
+## Exercise 2
+
+1. Download the PDB coordinates files of [Bacteriohemeritrin](http://www.rcsb.org/structure/4XPX) from _Methylococcus capsulatus str. Bath_ and the [Hypothetical protein NMB1532](http://www.rcsb.org/structure/2P0N) from _Neisseria meningitidis MC58_ and save them in your working_directory.
 _______
 ## Further reading
 
