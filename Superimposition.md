@@ -1,18 +1,18 @@
 ## Overview of pairwise structure superimposition tools:
 
+Wikipedia has a list of many avaliable structural alignment programs: https://en.wikipedia.org/wiki/Structural_alignment_software
+In this tutorial we will use only a few of them.
+
 | Name          | Description   | Type  |
-| ------------- |---------------| -----|
+| ------------- |---------------| ------|
 | [TM-align](https://zhanglab.ccmb.med.umich.edu/TM-align/) | TM-score based protein structure alignment | sequential |
-| CE      | Combinatorial Extension | sequential |
+| [CE](http://www.rcsb.org/pdb/workbench/workbench.do)      | Combinatorial Extension | sequential |
 | [DALI](http://ekhidna2.biocenter.helsinki.fi/dali/) | Distance‐matrix ALIgnment | non-sequential* |
 | [MICAN](http://www.tbp.cse.nagoya-u.ac.jp/MICAN/index.html)   | Multiple-chains, Inverse alignments, C α only models, Alternative alignments, and Non-sequential alignments | non-sequential |
 | [CLICK](http://cospi.iiserpune.ac.in/click/) | Topology-independent 3D structure comparison | non-sequential |
 | [Rapido](http://rapido.embl-hamburg.de/) | Rapid Alignment of Protein structures In the presence of Domain mOvements | sequential, flexible |
 | [MetalS2](http://metalweb.cerm.unifi.it/tools/metals2/)| Pairwise structural alignment of Minimal Functional Sites in metal-binding biological macromolecules | non-sequential, other |
 
-http://www.rcsb.org/pdb/workbench/workbench.do
-
-Wikipedia has a list of many avaliable structural alignment programs: https://en.wikipedia.org/wiki/Structural_alignment_software
 
 
 _______
