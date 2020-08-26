@@ -28,6 +28,8 @@ Let's start by aligning two structures that share a homologous domain.
 ![TM-align output for the alignment of 4xpx:A and 2p0n:A](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/TMalign_output.png?raw=true)
 
   - TM-align displays the structure superimposition of the two macromolecules. 
+
+![TM-align structure superimposition](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/TMalign_output-visualization.png)
   - PDB files
 _______
 ## Further reading
