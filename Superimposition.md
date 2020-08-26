@@ -2,11 +2,12 @@
 
 | Name          | Description   | Type  |
 | ------------- |---------------| -----|
-| [DALI](http://ekhidna2.biocenter.helsinki.fi/dali/) | Distance‐matrix ALIgnment | non-sequential* |
 | [TM-align](https://zhanglab.ccmb.med.umich.edu/TM-align/) | TM-score based protein structure alignment | sequential |
 | CE      | Combinatorial Extension | sequential |
+| [DALI](http://ekhidna2.biocenter.helsinki.fi/dali/) | Distance‐matrix ALIgnment | non-sequential* |
 | [MICAN](http://www.tbp.cse.nagoya-u.ac.jp/MICAN/index.html)   | Multiple-chains, Inverse alignments, C α only models, Alternative alignments, and Non-sequential alignments | non-sequential |
 | [CLICK](http://cospi.iiserpune.ac.in/click/) | Topology-independent 3D structure comparison | non-sequential |
+| [Rapido] | Rapid Alignment of Protein structures In the presence of Domain mOvements | sequential, flexible |
 
 http://www.rcsb.org/pdb/workbench/workbench.do
 
@@ -19,7 +20,7 @@ http://www.rcsb.org/pdb/workbench/workbench.do
   - CLICK
 - Flexible
   - Fatcat
-  - Rapido
+  - 
 - Other: MetalS2
 
 Wikipedia has a list of avaliable structural alignment programs: https://en.wikipedia.org/wiki/Structural_alignment_software
