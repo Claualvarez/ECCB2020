@@ -5,8 +5,8 @@
 | [DALI](http://ekhidna2.biocenter.helsinki.fi/dali/) | Distance‐matrix ALIgnment | non-sequential* |
 | [TM-align](https://zhanglab.ccmb.med.umich.edu/TM-align/) | TM-score based protein structure alignment | sequential |
 | CE      | Combinatorial Extension | sequential |
-| MICAN   | Multiple-chains, Inverse alignments, C α only models, Alternative alignments, and Non-sequential alignments |  |
-| CLICK   |  |  |
+| [MICAN](http://www.tbp.cse.nagoya-u.ac.jp/MICAN/index.html)   | Multiple-chains, Inverse alignments, C α only models, Alternative alignments, and Non-sequential alignments | non-sequential |
+| [CLICK](http://cospi.iiserpune.ac.in/click/) | Topology-independent 3D structure comparison | non-sequential |
 
 http://www.rcsb.org/pdb/workbench/workbench.do
 
