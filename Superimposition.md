@@ -3,8 +3,10 @@
 | Name          | Description   | Type  |
 | ------------- |---------------| -----|
 | [DALI](http://ekhidna2.biocenter.helsinki.fi/dali/) | Distance‐matrix ALIgnment | non-sequential* |
-| TM-align | centered      |   $12 |
-| CE.      | are neat      |    $1 |
+| [TM-align](https://zhanglab.ccmb.med.umich.edu/TM-align/) | TM-score based protein structure alignment | sequential |
+| CE      | Combinatorial Extension | sequential |
+| MICAN   | Multiple-chains, Inverse alignments, C α only models, Alternative alignments, and Non-sequential alignments |  |
+| CLICK   |  |  |
 
 http://www.rcsb.org/pdb/workbench/workbench.do
 
@@ -13,7 +15,7 @@ http://www.rcsb.org/pdb/workbench/workbench.do
 - Non sequential
   - [DALI - Pairwise](http://ekhidna2.biocenter.helsinki.fi/dali/)
   - [TM-align](https://zhanglab.ccmb.med.umich.edu/TM-align/)
-  - MICAN
+  - 
   - CLICK
 - Flexible
   - Fatcat
