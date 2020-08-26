@@ -14,11 +14,11 @@ In this tutorial we will use only a few of them.
 | [MetalS2](http://metalweb.cerm.unifi.it/tools/metals2/)| Pairwise structural alignment of Minimal Functional Sites in metal-binding biological macromolecules | non-sequential, other |
 
 Let's start by aligning two structures that share a homologous domain.
-1. Download the PDB coordinates files of [Bacteriohemeritrin](http://www.rcsb.org/structure/4XPX) from _Methylococcus capsulatus str. Bath_ and the [Hypothetical protein NMB1532](http://www.rcsb.org/structure/2P0N) from _Neisseria meningitidis MC58_ and save them in your working_directory. \
+1. Download the PDB coordinates files of [Bacteriohemeritrin](http://www.rcsb.org/structure/4XPX) from _Methylococcus capsulatus str. Bath_ and the [Hypothetical protein NMB1532](http://www.rcsb.org/structure/2P0N) from _Neisseria meningitidis MC58_ and save them in your working_directory. 
 
-Go to the [TM-align](https://zhanglab.ccmb.med.umich.edu/TM-align/) web server page. \
+2. Go to the [TM-align](https://zhanglab.ccmb.med.umich.edu/TM-align/) web server page. 
 
-3. Inspect the results. 
+3. Inspect the [output](https://zhanglab.ccmb.med.umich.edu/TM-align/tmp/103021.html). 
 
 
 _______
