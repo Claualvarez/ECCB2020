@@ -42,6 +42,10 @@ For the second exercise we will use a different pair of proteins that have a hom
 1. Download the PDB coordinates file of [YtfE](http://www.rcsb.org/structure/5FNN) from _Escherichia coli K-12_ and save it in your working_directory.
 
 2. Go to the [TM-align](https://zhanglab.ccmb.med.umich.edu/TM-align/) web server page. 
+
+3.
+
+![TM-align output for the alignment of 2p0n:A and 5fnnA]https://github.com/Claualvarez/ECCB2020/blob/master/Figures/TMalign_2p0n-5fnn_output.png
 _______
 ## Further reading
 
