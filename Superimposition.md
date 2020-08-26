@@ -45,7 +45,7 @@ For the second exercise we will use a different pair of proteins that have a hom
 
 3.
 
-![](TM-align output for the alignment of 2p0n:A and 5fnnA]https://github.com/Claualvarez/ECCB2020/blob/master/Figures/TMalign_2p0n-5fnn_output.png)
+![TM-align output for the alignment of 2p0n:A and 5fnnA](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/TMalign_2p0n-5fnn_output.png)
 _______
 ## Further reading
 
