@@ -1,5 +1,11 @@
 ## Overview of pairwise structure superimposition tools:
 
+| Name          | Description   | Type  |
+| ------------- |:-------------:| -----:|
+| ![DALI](http://ekhidna2.biocenter.helsinki.fi/dali/)     | right-aligned | $1600 |
+| TM-align | centered      |   $12 |
+| CE.      | are neat      |    $1 |
+
 http://www.rcsb.org/pdb/workbench/workbench.do
 
 - Sequential: 
@@ -14,8 +20,11 @@ http://www.rcsb.org/pdb/workbench/workbench.do
   - Rapido
 - Other: MetalS2
 
-## Scoring functions
-- DALI Z-score, TM-score and SO-score
+Wikipedia has a list of avaliable structural alignment programs: https://en.wikipedia.org/wiki/Structural_alignment_software
+
+
+_______
+## Further reading
 
 > Joung I, Kim JY, Joo K, Lee J. Non-sequential protein structure alignment by conformational space annealing and local refinement. PLoS One. 2019;14(1):e0210177. Published 2019 Jan 30. doi:10.1371/journal.pone.0210177
 
