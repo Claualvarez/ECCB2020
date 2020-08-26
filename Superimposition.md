@@ -7,7 +7,7 @@
 | [DALI](http://ekhidna2.biocenter.helsinki.fi/dali/) | Distance‐matrix ALIgnment | non-sequential* |
 | [MICAN](http://www.tbp.cse.nagoya-u.ac.jp/MICAN/index.html)   | Multiple-chains, Inverse alignments, C α only models, Alternative alignments, and Non-sequential alignments | non-sequential |
 | [CLICK](http://cospi.iiserpune.ac.in/click/) | Topology-independent 3D structure comparison | non-sequential |
-| [Rapido] | Rapid Alignment of Protein structures In the presence of Domain mOvements | sequential, flexible |
+| [Rapido](http://rapido.embl-hamburg.de/) | Rapid Alignment of Protein structures In the presence of Domain mOvements | sequential, flexible |
 
 http://www.rcsb.org/pdb/workbench/workbench.do
 
