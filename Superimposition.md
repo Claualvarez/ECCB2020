@@ -13,7 +13,9 @@ In this tutorial we will use only a few of them.
 | [Rapido](http://rapido.embl-hamburg.de/) | Rapid Alignment of Protein structures In the presence of Domain mOvements | sequential, flexible |
 | [MetalS2](http://metalweb.cerm.unifi.it/tools/metals2/)| Pairwise structural alignment of Minimal Functional Sites in metal-binding biological macromolecules | non-sequential, other |
 
-Let's start by aligning the structures of [Bactieriohemeritrin](http://files.rcsb.org/view/4XPX.pdb) from _Methylococcus capsulatus str. Bath_ and the [Hypothetical protein NMB1532](http://files.rcsb.org/view/2P0N.pdb) from _Neisseria meningitidis MC58_.
+Let's start by aligning the structures of [Bacteriohemeritrin](http://files.rcsb.org/view/4XPX.pdb) from _Methylococcus capsulatus str. Bath_ and the [Hypothetical protein NMB1532](http://files.rcsb.org/view/2P0N.pdb) from _Neisseria meningitidis MC58_.
+
+Go to [TM-align](https://zhanglab.ccmb.med.umich.edu/TM-align/)
 
 
 _______
