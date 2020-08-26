@@ -12,19 +12,7 @@
 
 http://www.rcsb.org/pdb/workbench/workbench.do
 
-- Sequential: 
-
-- Non sequential
-  - [DALI - Pairwise](http://ekhidna2.biocenter.helsinki.fi/dali/)
-  - [TM-align](https://zhanglab.ccmb.med.umich.edu/TM-align/)
-  - 
-  - CLICK
-- Flexible
-  - Fatcat
-  - 
-- Other: MetalS2
-
-Wikipedia has a list of avaliable structural alignment programs: https://en.wikipedia.org/wiki/Structural_alignment_software
+Wikipedia has a list of many avaliable structural alignment programs: https://en.wikipedia.org/wiki/Structural_alignment_software
 
 
 _______
