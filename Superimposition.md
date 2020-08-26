@@ -13,9 +13,40 @@ In this tutorial we will use only a few of them.
 | [Rapido](http://rapido.embl-hamburg.de/) | Rapid Alignment of Protein structures In the presence of Domain mOvements | sequential, flexible |
 | [MetalS2](http://metalweb.cerm.unifi.it/tools/metals2/)| Pairwise structural alignment of Minimal Functional Sites in metal-binding biological macromolecules | non-sequential, other |
 
-Let's start by aligning the structures of [Bacteriohemeritrin](http://files.rcsb.org/view/4XPX.pdb) from _Methylococcus capsulatus str. Bath_ and the [Hypothetical protein NMB1532](http://files.rcsb.org/view/2P0N.pdb) from _Neisseria meningitidis MC58_.
+Let's start by aligning two structures that share a homologous domain.
+1. Download the PDB coordinates files of [Bacteriohemeritrin](http://www.rcsb.org/structure/4XPX) from _Methylococcus capsulatus str. Bath_ and the [Hypothetical protein NMB1532](http://www.rcsb.org/structure/2P0N) from _Neisseria meningitidis MC58_ and save them in your working_directory. \
 
-Go to [TM-align](https://zhanglab.ccmb.med.umich.edu/TM-align/)
+Go to the [TM-align](https://zhanglab.ccmb.med.umich.edu/TM-align/) web server page. \
+
+3. Inspect the results. \
+TM-align will output 
+´**************************************************************************
+ *                        TM-align (Version 20190822)                     *
+ * An algorithm for protein structure alignment and comparison            *
+ * Based on statistics:                                                   *
+ *       0.0 < TM-score < 0.30, random structural similarity              *
+ *       0.5 < TM-score < 1.00, in about the same fold                    *
+ * Reference: Y Zhang and J Skolnick, Nucl Acids Res 33, 2302-9 (2005)    *
+ * Please email your comments and suggestions to: zhng@umich.edu          *
+ **************************************************************************
+
+Name of Chain_1: A103021                                           
+Name of Chain_2: B103021                                           
+Length of Chain_1:  130 residues
+Length of Chain_2:  157 residues
+
+Aligned length=  116, RMSD=   3.38, Seq_ID=n_identical/n_aligned= 0.103
+TM-score= 0.62196 (if normalized by length of Chain_1)
+TM-score= 0.53857 (if normalized by length of Chain_2)
+(You should use TM-score normalized by length of the reference protein)
+
+(":" denotes aligned residue pairs of d < 5.0 A, "." denotes other aligned residues)
+ALMTWTAAEFGTN-----VGFADDQHKTIFDMVNKLHDTAAT----GN--RSEIGKQLDALID-YVVMHFKSEETEMQKKGY------AD-FAAHKAEHDKLVGVCADLQKKFHA--G---EAEVNQDTTRFVRDWLVNHIPKVDKLYGPCLSA-----------------
+                  .::::::::::::::::::...::    ::  .:::::::::::: ::::::::::::::::.:      :: ::::::::::::::::::::::::  .   ..:.. .::::::::::::::::::::::...:                 
+-------------VTFAEPIELYACHGKVRRFCGQVALSDYIAENGCNQIVLQTIRQIAQYFNVAAPLHHEDEEENFFPLLLQYAPQAQESVDELLRQHIGLHDNWAAVSAEFAKLEADNAYVPDE-EAFKRFVAGYDVHLAIEEPLFDGNTFIPKEKLTEIGEIAARRRK
+
+
+ 
 
 
 _______
