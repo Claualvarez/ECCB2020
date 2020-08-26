@@ -1,6 +1,6 @@
 ## Overview of pairwise structure superimposition tools:
 
-Wikipedia has a list of many avaliable structural alignment programs: https://en.wikipedia.org/wiki/Structural_alignment_software
+Wikipedia has a list of many avaliable structural alignment programs: https://en.wikipedia.org/wiki/Structural_alignment_software \
 In this tutorial we will use only a few of them.
 
 | Name          | Description   | Type  |
