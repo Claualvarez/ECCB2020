@@ -20,16 +20,17 @@ Go to the [TM-align](https://zhanglab.ccmb.med.umich.edu/TM-align/) web server p
 
 3. Inspect the results. \
 TM-align will output 
-`` **************************************************************************
-`` *                        TM-align (Version 20190822)                     *
-`` * An algorithm for protein structure alignment and comparison            *
-`` * Based on statistics:                                                   *
-`` *       0.0 < TM-score < 0.30, random structural similarity              *
-`` *       0.5 < TM-score < 1.00, in about the same fold                    *
-`` * Reference: Y Zhang and J Skolnick, Nucl Acids Res 33, 2302-9 (2005)    *
-`` * Please email your comments and suggestions to: zhng@umich.edu          *
- **************************************************************************
-
+`` \
+ ************************************************************************** \
+ *                        TM-align (Version 20190822)                     * \
+ * An algorithm for protein structure alignment and comparison            * \
+ * Based on statistics:                                                   * \
+ *       0.0 < TM-score < 0.30, random structural similarity              * \
+ *       0.5 < TM-score < 1.00, in about the same fold                    * \
+ * Reference: Y Zhang and J Skolnick, Nucl Acids Res 33, 2302-9 (2005)    * \
+ * Please email your comments and suggestions to: zhng@umich.edu          * \
+ ************************************************************************** \
+``
  Name of Chain_1: A103021                                           
  Name of Chain_2: B103021                                           
  Length of Chain_1:  130 residues
