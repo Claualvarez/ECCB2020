@@ -37,8 +37,11 @@ Let's start by aligning two structures that share a homologous domain.
   
 _______
 ## Exercise 2
+For the second exercise we will use a different pair of proteins that have a homologous domain.
 
-1. Download the PDB coordinates files of [Bacteriohemeritrin](http://www.rcsb.org/structure/4XPX) from _Methylococcus capsulatus str. Bath_ and the [Hypothetical protein NMB1532](http://www.rcsb.org/structure/2P0N) from _Neisseria meningitidis MC58_ and save them in your working_directory.
+1. Download the PDB coordinates file of [YtfE](http://www.rcsb.org/structure/5FNN) from _Escherichia coli K-12_ and save it in your working_directory.
+
+2. Go to the [TM-align](https://zhanglab.ccmb.med.umich.edu/TM-align/) web server page. 
 _______
 ## Further reading
 
