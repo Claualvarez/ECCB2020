@@ -9,24 +9,23 @@ _____
 ## Exercise 1
 
 Let´s search an structure in the PDB and explore the database
-1. Go to the ([PDBe](pdbe.org)) site and in the "search" upper-right green icon, write "Hemerythrin". 
-2. Direct to the "Macromolecules" section in the upper-left side and click on the "Organism superkingdom" and select "Archaea".
-3. Click on the structure [3cax](https://www.ebi.ac.uk/pdbe/entry/pdb/3cax)
- 
-![Protein domain 3D visualization](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/3CAX_domainpdbeCATH.png)
-
-Go to the PDB database
-Search their UniProt code
-Direct to the SIFTS site and download the file “    “. Search all available lines that contain the UniProt code that correspond to our protein. This will give us all the available structures.
-To identify if our sequence present disordered regions, we need to 
-
+1. Go to the ([PDBe](pdbe.org)) site and in the "search" upper right green icon, write "Hemerythrin". 
+2. Direct to the "Macromolecules" section in the upper left side and click on the "Organism superkingdom" and select "Archaea".
+3. Click on the structure [3cax](https://www.ebi.ac.uk/pdbe/entry/pdb/3cax).
+4. In the main page, you will find the grey box "Structure analysis" in the lower right side. Click on it [Molecule details](https://www.ebi.ac.uk/pdbe/entry/pdb/3cax/protein/1).
+5. Locate the middle section "Visualisation". Find the "Pfam" row and signal the domain "Hemerythrin HHE cation binding domain". Observe that in the visualizer your that domain is now highlighted in pink. Identify the regions of the domain (9-148).
+6. Find the "Sec. str" section.
+7. In the "CATH" section, you will see that your domain correspond to the CATH superfamily (1.20.120.520)[http://www.cathdb.info/version/latest/superfamily/1.20.120.520]. 
 
 
 _______
 ## Exercise 2
 
 Is time to download the atomic coordinate file of our protein of interest
-1. 
+1. Go to the main page of the structure[3cax](https://www.ebi.ac.uk/pdbe/entry/pdb/3cax).
+2. In the upper-right box "Quick links", find the section "Downloads". Click on the "PDB file" blue link.
+3. Direct to your Download section and open the file "pdb3cax.ent" with the editor of your computer.
+
 
 
 
