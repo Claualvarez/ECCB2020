@@ -24,7 +24,7 @@ _______
 ## Exercise 2
 
 Is time to download the atomic coordinate file of our protein of interest
-1. Go to the main page of the structure[3cax](https://www.ebi.ac.uk/pdbe/entry/pdb/3cax).
+1. Go to the main page of the structure [3cax](https://www.ebi.ac.uk/pdbe/entry/pdb/3cax).
 2. In the upper-right box "Quick links", find the section "Downloads". Click on the "PDB file" blue link.
 3. Direct to your Download section and open the file "pdb3cax.ent" with the editor of your computer.
 
@@ -33,6 +33,7 @@ Is time to download the atomic coordinate file of our protein of interest
 
 _______
 ## Further reading
+> Berman H, Westbrook J, Feng Z, Gilliland T, Bhat T, Weissig H, Shindyalov I, Bourne P. The Protein Data Bank. Nucleic Acids Research. 2000. 28: 235-242. doi:10.1093/nar/28.1.235
 
 
 
