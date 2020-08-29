@@ -12,10 +12,12 @@ Let´s search an structure in the PDB and explore the database
 1. Go to the ([PDBe](pdbe.org)) site and in the "search" upper right green icon, write "Hemerythrin". 
 2. Direct to the "Macromolecules" section in the upper left side and click on the "Organism superkingdom" and select "Archaea".
 3. Click on the structure [3cax](https://www.ebi.ac.uk/pdbe/entry/pdb/3cax).
-4. In the main page, you will find the grey box "Structure analysis" in the lower right side. Click on it [Molecule details](https://www.ebi.ac.uk/pdbe/entry/pdb/3cax/protein/1).
+4. In the main page, you will find the grey box "Structure analysis" in the lower right side. Click on [Molecule details](https://www.ebi.ac.uk/pdbe/entry/pdb/3cax/protein/1).
 5. Locate the middle section "Visualisation". Find the "Pfam" row and signal the domain "Hemerythrin HHE cation binding domain". Observe that in the visualizer your that domain is now highlighted in pink. Identify the regions of the domain (9-148).
 6. Find the "Sec. str" section.
 7. In the "CATH" section, you will see that your domain correspond to the CATH superfamily (1.20.120.520)[http://www.cathdb.info/version/latest/superfamily/1.20.120.520]. 
+
+![3cax_visualization_domain_pdbe](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/3CAX_domainpdbeCATH.png?raw=true)
 
 
 _______
