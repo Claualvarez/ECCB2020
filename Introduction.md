@@ -9,9 +9,9 @@ _____
 ## Exercise 1
 
 Let´s search an structure in the PDB and explore the database
-1. Go to the ([PDBe](pdbe.org)) site and search for the
-
-[(https://www.ebi.ac.uk/pdbe/entry/pdb/4xpx)
+1. Go to the ([PDBe](pdbe.org)) site and in the "search" upper-right green icon, write "Hemerythrin". 
+2. Direct to the "Macromolecules" section in the upper-left side and click on the "Organism superkingdom"; select "Archaea".
+3. Click on the structure [3cax][(https://www.ebi.ac.uk/pdbe/entry/pdb/3cax)
  
 ![Protein domain 3D visualization](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/3CAX_domainpdbeCATH.png)
 
