@@ -9,12 +9,16 @@ _____
 ## Exercise 1
 
 Let´s search an structure in the PDB and explore the database
-1. 
+1. Go to the ([PDBe](pdbe.org)) site and search for the
 
+[(https://www.ebi.ac.uk/pdbe/entry/pdb/4xpx)
+ 
+![Protein domain 3D visualization](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/3CAX_domainpdbeCATH.png)
 
-
-![Protein domain 3D visualization](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/5fnn_domainshowmorechains.png)
-
+Go to the PDB database
+Search their UniProt code
+Direct to the SIFTS site and download the file “    “. Search all available lines that contain the UniProt code that correspond to our protein. This will give us all the available structures.
+To identify if our sequence present disordered regions, we need to 
 
 
 
