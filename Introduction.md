@@ -19,6 +19,9 @@ Let´s search an structure in the PDB and explore the database
 _______
 ## Exercise 2
 
+Is time to download the atomic coordinate file of our protein of interest
+1. 
+
 
 
 _______
