@@ -7,6 +7,8 @@ your search, as well as on the problem you are trying to solve.
 _____
 ## Exercise 1
 
+1. Go to [PDBe](https://www.ebi.ac.uk/pdbe/) and type "hemerythrin" in the search bar.
+
 
 ### By annotation (information-driven search approach) 
 #### The Protein Data Bank database
