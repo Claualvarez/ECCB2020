@@ -13,6 +13,8 @@ Let´s search an structure in the PDB and explore the database
 
 
 
+![Protein domain 3D visualization](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/5fnn_domainshowmorechains.png)
+
 
 
 
