@@ -23,10 +23,10 @@ Let's start by aligning two structures that share a homologous domain.
 
   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/TM-align.png)
   
-**3. Interpreting the [results](https://zhanglab.ccmb.med.umich.edu/TM-align/tmp/103021.html). **
+**3. Interpreting the [results](https://zhanglab.ccmb.med.umich.edu/TM-align/tmp/103021.html). ** 
+  
   - The first part of the output contains the `Aligned length`, `RMSD`, `Seq_ID` (proportion of identical positions to aligned residues), and `TM-score`.
-  - Next, the structure-derived sequence alignment, which can be easily converted to a FASTA format using a text editor (or with a parsing script).
-  Once you have added a name for each sequence, the structure-derived fasta alignment will look like [this](https://github.com/Claualvarez/ECCB2020/blob/master/Files/4xpxA-2p0nA.tmalign_aln.fa).
+  - Next, you will see the structure-derived sequence alignment, which can be easily converted to a FASTA format using a text editor (or with a parsing script).
      - Always examine the structure-derived sequence alignment. 
      - You can use the sequence alignment to seed a multiple sequence alignment (we will do this in the next session).
   
@@ -35,6 +35,7 @@ Let's start by aligning two structures that share a homologous domain.
   - TM-align displays the structure superimposition of the two macromolecules. 
 
   ![TM-align structure superimposition](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/TMalign_output-visualization.png)
+  
   - PDB files
   
 _______
@@ -43,9 +44,9 @@ For the second exercise we will use a different pair of proteins that have a hom
 
 **1. Download the PDB coordinates file of [YtfE](http://www.rcsb.org/structure/5FNN) from _Escherichia coli K-12_ and save it in your working_directory.**
 
-**2. Go to the [TM-align](https://zhanglab.ccmb.med.umich.edu/TM-align/) web server page.** 
+**2. Go to the [TM-align](https://zhanglab.ccmb.med.umich.edu/TM-align/) web server page and upload the two PDB file that you downloaded in the previous step.** 
 
-**3.**
+**3. Examine the results. **
 
   ![TM-align output for the alignment of 2p0n:A and 5fnnA](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/TMalign_2p0n-5fnn_output.png)
 _______
