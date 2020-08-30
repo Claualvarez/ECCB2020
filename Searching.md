@@ -8,6 +8,12 @@ _____
 ## Exercise 1
 
 1. Go to [PDBe](https://www.ebi.ac.uk/pdbe/) and type "hemerythrin" in the search bar.
+   This will display results for "hemerythrin" in three categories: 
+   - Molecule name
+   - Sequence family
+   - Structure domain
+   
+   
 
 ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Hemerythrin_seq_fam_searchPDBe.png)
 
