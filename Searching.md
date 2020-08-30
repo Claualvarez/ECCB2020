@@ -5,9 +5,9 @@ The choice of strategy will depend on the type of information you have at the be
 your search, as well as on the problem you are trying to solve.
 
 _____
-## Exercise 1
+## Exercise 1: searching by annotation (information-driven search approach) 
 
-1. Go to [PDBe](https://www.ebi.ac.uk/pdbe/) and type "hemerythrin" in the search bar. \
+**1. Go to [PDBe](https://www.ebi.ac.uk/pdbe/) and type "hemerythrin" in the search bar.** \
    This will display results for "hemerythrin" in three categories: 
    - **Molecule name**: 
      This filter will allow you to retrieve all molecules annotated as "hemerytrin". \
@@ -19,14 +19,14 @@ _____
 
    ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Hemerythrin_seq_fam_searchPDBe.png)
 
-2. Select the results for Sequence family : PF01814 : Hemerythrin. \
+**2. Select the results for Sequence family : PF01814 : Hemerythrin.** \
    This page will display all entries associated with the Hemerythrin family in Pfam. \
    Note that the same [UniProt](https://www.uniprot.org/)/PDBe-KB identifier may appear in different PDB entries. \
    For example: 2awc and 2awy have the same PDBe-KB identifier. 
 
    ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Hemerythrin_entries_per_prot.png)
 
-3. Go to the *Macromolecules* tab to see the individual entries gruped by [UniProt](https://www.uniprot.org/) udentifier. 
+**3. Go to the *Macromolecules* tab to see the individual entries gruped by [UniProt](https://www.uniprot.org/) udentifier.** 
    To get the results of this search in csv file format, click on the *Download* button on the top right corner of the results page. 
    - Select the data you would like to download:
      - Macromolecule
@@ -39,7 +39,6 @@ _____
    > ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/PDBeKB.png)
    >
 
-### By annotation (information-driven search approach) 
 #### The Protein Data Bank database
 [RCSB_PDB](https://www.rcsb.org/); [PDBe](https://www.ebi.ac.uk/pdbe/); [PDBj](https://pdbj.org/)
 #### Structure classification databases
