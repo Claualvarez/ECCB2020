@@ -8,6 +8,7 @@ _____
 ## Exercise 1
 
 1. Go to [PDBe](https://www.ebi.ac.uk/pdbe/) and type "hemerythrin" in the search bar.
+![]https://github.com/Claualvarez/ECCB2020/blob/master/Figures/hemerythrin_search_PDBe.png
 
 
 ### By annotation (information-driven search approach) 
