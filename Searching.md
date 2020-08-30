@@ -19,11 +19,12 @@ _____
 
 ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Hemerythrin_seq_fam_searchPDBe.png)
 
-Select the results for Sequence family : PF01814 : Hemerythrin.
-
-2. This page will display all entries associated with the Hemerythrin family in Pfam.
+2. Select the results for Sequence family : PF01814 : Hemerythrin. \
+   This page will display all entries associated with the Hemerythrin family in Pfam. \
 
 ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/hemerythrin_PDBe_entries.png)
+
+   You may notice that 
 
 3.
 
