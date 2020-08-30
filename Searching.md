@@ -17,7 +17,7 @@ _____
 
 3.
 
-![]()
+![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/PDBeKB.png)
 
 ### By annotation (information-driven search approach) 
 #### The Protein Data Bank database
