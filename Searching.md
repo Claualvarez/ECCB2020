@@ -7,7 +7,7 @@ your search, as well as on the problem you are trying to solve.
 _____
 ## Exercise 1
 
-1. Go to [PDBe](https://www.ebi.ac.uk/pdbe/) and type "hemerythrin" in the search bar.
+1. Go to [PDBe](https://www.ebi.ac.uk/pdbe/) and type "hemerythrin" in the search bar. \
    This will display results for "hemerythrin" in three categories: 
    - Molecule name
    - Sequence family
