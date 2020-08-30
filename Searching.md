@@ -19,6 +19,8 @@ _____
 
 ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/PDBeKB.png)
 
+![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/PDBeKB.png)
+
 ### By annotation (information-driven search approach) 
 #### The Protein Data Bank database
 [RCSB_PDB](https://www.rcsb.org/); [PDBe](https://www.ebi.ac.uk/pdbe/); [PDBj](https://pdbj.org/)
