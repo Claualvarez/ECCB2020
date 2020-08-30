@@ -9,7 +9,7 @@ _____
 ## Exercise 1
 
 Let´s search an structure in the PDB and explore the database
-1. Go to the ([PDBe](pdbe.org)) site and in the "search" upper right green icon, write "Hemerythrin". 
+1. Go to the [PDBe](https://www.ebi.ac.uk/pdbe/) site and in the "search" upper right green icon, write "Hemerythrin". 
 2. Direct to the "Macromolecules" section in the upper left side and click on the "Organism superkingdom" and select "Archaea".
 3. Click on the structure [3cax](https://www.ebi.ac.uk/pdbe/entry/pdb/3cax).
 4. In the main page, you will find the grey box "Structure analysis" in the lower right side. Click on [Molecule details](https://www.ebi.ac.uk/pdbe/entry/pdb/3cax/protein/1).
