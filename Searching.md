@@ -19,7 +19,7 @@ _____
 
 ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Hemerythrin_seq_fam_searchPDBe.png)
 
-Select the results  PF01814 : Hemerythrin
+Select the results for Sequence family > PF01814 : Hemerythrin
 
 2. 
 
