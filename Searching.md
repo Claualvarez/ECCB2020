@@ -30,9 +30,10 @@ _____
    To get the results of this search in csv file format, click on the *Download* button on the top right corner of the results page. 
    - Select the data you would like to download:
      - Macromolecule
-     - PDB id
-   
-   >
+     - PDB ID
+   - Download as:
+     - CSV
+
    > Click on a PDBe-KB identifier to get a summary of structural and integrated data available for a full-length protein sequence.
    > 
    > ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/PDBeKB.png)
