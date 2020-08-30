@@ -52,7 +52,7 @@ _____
 
 ## Exercise 2: searching by  sequence similarity
  
-**1. Download the sequence of [Bacteriohemerythrin](https://www.uniprot.org/uniprot/Q60AX2) from _Methylococcus capsulatus_**
+**1. Download the sequence of [Bacteriohemerythrin](https://www.uniprot.org/uniprot/Q60AX2.fasta) from _Methylococcus capsulatus_**
   - [HHpred](https://toolkit.tuebingen.mpg.de/tools/hhpred)
 - By structure similarity: 
   - [PDBeFold](https://www.ebi.ac.uk/msd-srv/ssm/) 
