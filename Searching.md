@@ -27,8 +27,11 @@ _____
    ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Hemerythrin_entries_per_prot.png)
 
 3. Go to the *Macromolecules* tab to see the individual entries gruped by [UniProt](https://www.uniprot.org/) udentifier. 
-   Download one PDB file per protein in this tab. You should get 7 PDB coordinates files.
-
+   To get the results of this search in csv file format, click on the *Download* button on the top right corner of the results page. 
+   - Select the data you would like to download:
+     - Macromolecule
+     - PDB id
+   
    >
    > Click on a PDBe-KB identifier to get a summary of structural and integrated data available for a full-length protein sequence.
    > 
