@@ -10,9 +10,11 @@ _____
 1. Go to [PDBe](https://www.ebi.ac.uk/pdbe/) and type "hemerythrin" in the search bar. \
    This will display results for "hemerythrin" in three categories: 
    - **Molecule name**: 
-     This filter will allow you to retrieve all molecules annotated as "hemerytrin".
+     This filter will allow you to retrieve all molecules annotated as "hemerytrin". \
      Two notes of caution, though. Not all homologues have the same molecular name and not al molecules with the same name are homologues.
-   - Sequence family
+   - **Sequence family**:
+     With this filter you can find entries within the same *family*, according to two databases: [InterPro](https://www.ebi.ac.uk/interpro/) and [Pfam](https://pfam.xfam.org/).
+     classification
    - Structure domain
 
 ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Hemerythrin_seq_fam_searchPDBe.png)
