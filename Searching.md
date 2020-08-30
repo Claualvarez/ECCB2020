@@ -27,8 +27,12 @@ _____
    ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Hemerythrin_entries_per_prot.png)
 
 3. Go to the *Macromolecules* tab to see the individual entries gruped by [UniProt](https://www.uniprot.org/) udentifier. 
+
+   >
    > Click on a PDBe-KB identifier to get a summary of structural and integrated data available for a full-length protein sequence.
+   > 
    > ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/PDBeKB.png)
+   >
 
 ### By annotation (information-driven search approach) 
 #### The Protein Data Bank database
