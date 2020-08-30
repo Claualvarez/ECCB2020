@@ -4,6 +4,14 @@ There are two approaches to retrieve protein structural data: by annotation; or 
 The choice of strategy will depend on the type of information you have at the beginning of 
 your search, as well as on the problem you are trying to solve.
 
+#### The Protein Data Bank database
+[RCSB_PDB](https://www.rcsb.org/); [PDBe](https://www.ebi.ac.uk/pdbe/); [PDBj](https://pdbj.org/)
+#### Structure classification databases
+- [CATH](https://www.cathdb.info/); 
+- [SCOPe](https://scop.berkeley.edu/); 
+- [ECOD](http://prodata.swmed.edu/ecod/)
+
+
 _____
 ## Exercise 1: searching by annotation (information-driven search approach) 
 
@@ -26,25 +34,19 @@ _____
 
    ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Hemerythrin_entries_per_prot.png)
 
-**3. Go to the *Macromolecules* tab to see the individual entries gruped by [UniProt](https://www.uniprot.org/) udentifier.** 
+**3. Go to the *Macromolecules* tab to see the individual entries gruped by [UniProt](https://www.uniprot.org/) identifier.** 
    To get the results of this search in csv file format, click on the *Download* button on the top right corner of the results page. 
    - Select the data you would like to download:
      - Macromolecule
      - PDB ID
    - Download as:
      - CSV
-
+_____
    > Click on a PDBe-KB identifier to get a summary of structural and integrated data available for a full-length protein sequence.
    > 
    > ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/PDBeKB.png)
    >
-
-#### The Protein Data Bank database
-[RCSB_PDB](https://www.rcsb.org/); [PDBe](https://www.ebi.ac.uk/pdbe/); [PDBj](https://pdbj.org/)
-#### Structure classification databases
-- [CATH](https://www.cathdb.info/); 
-- [SCOPe](https://scop.berkeley.edu/); 
-- [ECOD](http://prodata.swmed.edu/ecod/)
+_____
 
 ### By sequence similarity: 
   - [RCSB PDB](https://www.rcsb.org/) 
