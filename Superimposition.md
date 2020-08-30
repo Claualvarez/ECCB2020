@@ -24,6 +24,10 @@ Let's start by aligning two structures that share a homologous domain.
 
   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/TM-align.png)
   
+  Click on *Run TM-align* to start the superimposition.
+  
+  ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/TM-align_run.png)
+  
 **3. Interpreting the [results](https://zhanglab.ccmb.med.umich.edu/TM-align/tmp/103021.html).** 
   
   - The first part of the output contains the `Aligned length`, `RMSD`, `Seq_ID` (proportion of identical positions to aligned residues), and `TM-score`.
