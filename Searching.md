@@ -42,6 +42,7 @@ _____
    - Download as:
      - CSV
 _____
+   > Have extra time? ... Explore PDBe-KB Aggregated Views of Proteins
    > Click on a PDBe-KB identifier to get a summary of structural and integrated data available for a full-length protein sequence.
    > 
    > ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/PDBeKB.png)
