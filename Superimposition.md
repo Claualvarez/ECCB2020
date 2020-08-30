@@ -20,11 +20,11 @@ Let's start by aligning two structures that share a homologous domain.
 
 **1. Download the PDB coordinates files of [Bacteriohemeritrin](https://www.ebi.ac.uk/pdbe/entry/pdb/4xpx/) from _Methylococcus capsulatus str. Bath_ and the [Hypothetical protein NMB1532](https://www.ebi.ac.uk/pdbe/entry/pdb/2p0n) from _Neisseria meningitidis MC58_ and save them in your working_directory.** 
 
-**2. Go to the [TM-align](https://zhanglab.ccmb.med.umich.edu/TM-align/) web server page.**
+**2. Go to the [TM-align](https://zhanglab.ccmb.med.umich.edu/TM-align/) web server page and upload the two PDB file that you downloaded in the previous step.**
 
   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/TM-align.png)
   
-**3. Interpreting the [results](https://zhanglab.ccmb.med.umich.edu/TM-align/tmp/103021.html). ** 
+**3. Interpreting the [results](https://zhanglab.ccmb.med.umich.edu/TM-align/tmp/103021.html).** 
   
   - The first part of the output contains the `Aligned length`, `RMSD`, `Seq_ID` (proportion of identical positions to aligned residues), and `TM-score`.
   - Next, you will see the structure-derived sequence alignment, which can be easily converted to a FASTA format using a text editor (or with a parsing script).
@@ -47,7 +47,7 @@ For the second exercise we will use a different pair of proteins that have a hom
 
 **2. Go to the [TM-align](https://zhanglab.ccmb.med.umich.edu/TM-align/) web server page and upload the two PDB file that you downloaded in the previous step.** 
 
-**3. Examine the results. **
+**3. Examine the results.**
 
   ![TM-align output for the alignment of 2p0n:A and 5fnnA](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/TMalign_2p0n-5fnn_output.png)
 _______
