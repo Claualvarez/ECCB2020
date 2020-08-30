@@ -8,7 +8,9 @@ Protein structure prediction techniques fall into two main categories: Template-
 _____
 ## Exercise 1
 We will perform a template-based structure prediction
-1. 
+1. Prepare the fasta sequence of your protein of interest. If you´re interested in predict the disorder in a PDB entry, go to the main page [3cax](https://www.ebi.ac.uk/pdbe/entry/pdb/1zr9).
+2. In the main page, you will find the grey box "Structure analysis" in the lower right side. Click on [Molecule details](https://www.ebi.ac.uk/pdbe/entry/pdb/1zr9/protein/1). In the upper gray box, identify the term "UniProt:" and copy the code (O00488).
+3. Go to the [UniProt site](https://www.uniprot.org/) and search fot the UniProt code ("O00488")[https://www.uniprot.org/uniprot/O00488] 
 
  ![3cax_visualization_domain_pdbe](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/3CAX_domainpdbeCATH.png?raw=true)
 
@@ -16,7 +18,7 @@ We will perform a template-based structure prediction
 _______
 ## Exercise 2
 Predict intrinsically disordered regions in our protein of interest
- 
+ 1. Go to th
 _______
 ## Further reading
  
