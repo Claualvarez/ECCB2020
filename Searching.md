@@ -13,11 +13,13 @@ _____
      This filter will allow you to retrieve all molecules annotated as "hemerytrin". \
      Two notes of caution, though. Not all homologues have the same molecular name and not al molecules with the same name are homologues.
    - **Sequence family**:
-     With this filter you can find entries within the same *family*, according to two databases: [InterPro](https://www.ebi.ac.uk/interpro/) and [Pfam](https://pfam.xfam.org/).
+     This will filter -at the *family* level- entries by unique identifier within [Rfam](https://rfam.xfam.org/), [Pfam](https://pfam.xfam.org/) or [Interpro](https://www.ebi.ac.uk/interpro/) databases.
    - **Structure domain**:
-     Here you will find entries with the same [CATH](https://www.cathdb.info/) topology, which include homologous and non-homologous proteins.
+     Here you will find entries with the same [CATH](https://www.cathdb.info/) *topology*, which include homologous and non-homologous proteins.
 
 ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Hemerythrin_seq_fam_searchPDBe.png)
+
+Select the results  PF01814 : Hemerythrin
 
 2. 
 
