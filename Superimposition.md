@@ -28,7 +28,7 @@ Let's start by aligning two structures that share a homologous domain.
   
   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/TM-align_run.png)
   
-**3. Interpreting the [results](https://zhanglab.ccmb.med.umich.edu/TM-align/tmp/103021.html).** 
+**3. Examine and save the [results](https://zhanglab.ccmb.med.umich.edu/TM-align/tmp/103021.html).** 
   
   - The first part of the output contains the `Aligned length`, `RMSD`, `Seq_ID` (proportion of identical positions to aligned residues), and `TM-score`.
   - Next, you will see the structure-derived sequence alignment, which can be easily converted to a FASTA format using a text editor (or with a parsing script).
