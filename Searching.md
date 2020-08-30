@@ -14,8 +14,8 @@ _____
      Two notes of caution, though. Not all homologues have the same molecular name and not al molecules with the same name are homologues.
    - **Sequence family**:
      With this filter you can find entries within the same *family*, according to two databases: [InterPro](https://www.ebi.ac.uk/interpro/) and [Pfam](https://pfam.xfam.org/).
-     classification
-   - Structure domain
+   - **Structure domain**:
+     Here you will find entries with the same [CATH](https://www.cathdb.info/) topology, which include homologous and non-homologous proteins.
 
 ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Hemerythrin_seq_fam_searchPDBe.png)
 
