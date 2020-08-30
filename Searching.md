@@ -21,10 +21,10 @@ _____
 
 2. Select the results for Sequence family : PF01814 : Hemerythrin. \
    This page will display all entries associated with the Hemerythrin family in Pfam. \
+   Note that there are different entries that correspond to a single protein. \
+   For example: 2awc and 2awy have the same PDBe-KB identifier. 
 
-![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/hemerythrin_PDBe_entries.png)
-
-   You may notice that 
+![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Hemerythrin_entries_per_prot.png)
 
 3.
 
