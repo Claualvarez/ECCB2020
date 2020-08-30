@@ -13,7 +13,7 @@ _____
    - Sequence family
    - Structure domain
    
-   
+   Not all homologues have the same molecular name and not al molecules with the same name are homologues.
 
 ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Hemerythrin_seq_fam_searchPDBe.png)
 
