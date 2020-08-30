@@ -17,20 +17,20 @@ _____
    - **Structure domain**:
      Here you will find entries with the same [CATH](https://www.cathdb.info/) *topology*, which includes non-homologous proteins.
 
-![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Hemerythrin_seq_fam_searchPDBe.png)
+   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Hemerythrin_seq_fam_searchPDBe.png)
 
 2. Select the results for Sequence family : PF01814 : Hemerythrin. \
    This page will display all entries associated with the Hemerythrin family in Pfam. \
-   Note that there are different entries that correspond to a single protein. \
+   Note that the same [UniProt](https://www.uniprot.org/)/PDBe-KB identifier may appear in different PDB entries. \
    For example: 2awc and 2awy have the same PDBe-KB identifier. 
 
-![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Hemerythrin_entries_per_prot.png)
+   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Hemerythrin_entries_per_prot.png)
 
-3.
+3. Click on a PDBe-KB identifier to get a summary of structural and integrated data available for a full-length protein sequence.
 
-![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/PDBeKB.png)
+   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/PDBeKB.png)
 
-![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Hemerythrin_structure_cluster.png)
+   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Hemerythrin_structure_cluster.png)
 
 ### By annotation (information-driven search approach) 
 #### The Protein Data Bank database
