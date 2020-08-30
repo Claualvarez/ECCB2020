@@ -41,6 +41,7 @@ _____
      - PDB ID
    - Download as:
      - CSV
+   Save the csv file in your working_directoy (we will use it later).
 _____
    > Got extra time? ... Explore PDBe-KB Aggregated Views of Proteins \
    > Click on a PDBe-KB identifier to get a summary of structural and integrated data available for a full-length protein sequence.
@@ -49,8 +50,9 @@ _____
    >
 _____
 
-### By sequence similarity: 
-  - [RCSB PDB](https://www.rcsb.org/) 
+## Exercise 2: searching by  sequence similarity
+ 
+**1. **
   - [HHpred](https://toolkit.tuebingen.mpg.de/tools/hhpred)
 - By structure similarity: 
   - [PDBeFold](https://www.ebi.ac.uk/msd-srv/ssm/) 
