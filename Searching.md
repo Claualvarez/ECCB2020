@@ -17,13 +17,14 @@ _____
 ## Exercise 1: searching by annotation (information-driven search approach) 
 
 **1. Go to [PDBe](https://www.ebi.ac.uk/pdbe/) and type "hemerythrin" in the search bar.** \
-   This will display results for "hemerythrin" in three categories: 
-   - **Molecule name**: 
+   This will display a menu with automated suggestions for filters that can be applied to your search. \ 
+   In this example, there are three filters for "hemerythrin": 
+   - **Molecule name** \
      This filter will allow you to retrieve all molecules annotated as "hemerytrin". \
      Two notes of caution, though. Not all homologues have the same molecular name and not al molecules with the same name are homologues.
-   - **Sequence family**:
-     This will filter -at the *family* level- entries by unique identifier within [Rfam](https://rfam.xfam.org/), [Pfam](https://pfam.xfam.org/) or [Interpro](https://www.ebi.ac.uk/interpro/) databases. Proteins classified within the same *family* in these databases are considered homologs.
-   - **Structure domain**:
+   - **Sequence family** \
+     This will filter entries by unique identifier within [Rfam](https://rfam.xfam.org/), [Pfam](https://pfam.xfam.org/) or [Interpro](https://www.ebi.ac.uk/interpro/) databases. Proteins classified within the same *family* in these databases are considered homologs.
+   - **Structure domain** \
      Here you will find entries with the same [CATH](https://www.cathdb.info/) *topology*, which includes non-homologous proteins.
 
    ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Hemerythrin_seq_fam_searchPDBe.png)
