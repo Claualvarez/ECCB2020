@@ -72,7 +72,7 @@ For the second exercise we will use a different pair of proteins that have a hom
 
   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/CLICK_homepage.png)
 
-**5. Upload the files or provide the pdb codes of the proteins that we want to compare (4xpx and 5fnn).**
+**5. Upload the files or enter the pdb codes of the proteins that we want to compare (4xpx and 5fnn).**
 
 **6. Run the alignment or click [here](http://cospi.iiserpune.ac.in/click/output/01092020233149/01092020233149.html) to open the pre-computed superimposition.**
 
@@ -97,6 +97,16 @@ Hemerythrins have a conserved non-heme diiron-binding site. Most of the residues
 **1. Go to [MetalS2](http://metalweb.cerm.unifi.it/tools/metals2/)**
 
   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/MetalS2_homepage.png)
+
+**2. Upload the files or enter the pdb codes of the proteins that we want to compare (4xpx and 5fnn) and run.**
+
+**3. Select sites.** \
+  In this case, there is only one metal-binding site per chain. Select the diiron binding site for chain A for each protein and run.
+  
+  ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/MetalS2_select_sites.png)
+  
+**4. Inspect the [results](http://metalweb.cerm.unifi.it/tools/metals2_results/1598987841.32/)**
+
   
 _______
 ## Further reading
