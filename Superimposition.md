@@ -39,6 +39,8 @@ Let's start by aligning two structures that share a homologous domain.
      > *Tip:* \
      > Always examine the structure-derived sequence alignment. \
      > The structure-derived sequence alignment can be easily converted to a FASTA format using a text editor (or with a parsing script). \
+     > Just remeber: \
+     >   (":" denotes aligned residue pairs of d < 5.0 A, "." denotes other aligned residues) \
      > You can use the sequence alignment to seed a multiple sequence alignment (we will do this in the next session).
   
     ![TM-align output for the alignment of 4xpx:A and 2p0n:A](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/TMalign_output.png?raw=true)
