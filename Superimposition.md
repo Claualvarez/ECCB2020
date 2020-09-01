@@ -30,7 +30,7 @@ Let's start by superimposing the structure of Bacteriohemerythrin to 2p0n, a pos
   
 **3. Examine and save the [results](https://zhanglab.ccmb.med.umich.edu/TM-align/tmp/103021.html).** 
   
-    [TM-align output for the alignment of 4xpx:A and 2p0n:A](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/TMalign_output.png)
+    ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/TMalign_output.png)
     
   - The first part of the output contains the `Aligned length`, `RMSD`, `Seq_ID` (proportion of identical positions to aligned residues), and `TM-score`.\
     How many residues have been aligned? \
