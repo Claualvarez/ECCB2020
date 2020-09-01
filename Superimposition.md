@@ -59,7 +59,11 @@ For the second exercise we will use a different pair of proteins that have a hom
 
 **2. Go to the [TM-align](https://zhanglab.ccmb.med.umich.edu/TM-align/) web server page and upload the PDB file for 4xpx and 5fnn and run the superimposition by clicking the *Run TM-align* button.** 
 
-**3. Examine the results.**
+**3. Examine the results.** \
+  How many residues have been aligned? \
+  What is the TM-score of this superimposition? 
+    
+
 
   ![TM-align output for the alignment of 2p0n:A and 5fnnA](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/TMalign_2p0n-5fnn_output.png)
 _______
