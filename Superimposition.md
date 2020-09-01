@@ -74,23 +74,23 @@ For the second exercise we will use a different pair of proteins that have a hom
 
 **6. Run the alignment or click [here](http://cospi.iiserpune.ac.in/click/output/01092020233149/01092020233149.html) to open the pre-computed superimposition.**
 
-**7. Examine the results and compare them to the superimposition that we previously computed using TM-align. \
-Locate the alignment summary.**
+**7. Examine the results and compare them to the superimposition that we previously computed using TM-align.** \
+Locate the alignment summary. \
+- How many residues have been aligned? \
+- What is the RMSD of this superimposition?
+
 
   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/CLICK_summary.png)
   
 **Pay particular attention to the structure-derived sequence alignment.**
 
   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/CLICK_seq_aln.png)
-  
-  How many residues have been aligned? \
-  What is the RMSD of this superimposition?
-  
+    
 **Are these superimpositions substantially different? Why? And how do you decide which one to use?**
 
 ## Exercise 3: Using a binding-site to superimpose proteins
 
-Hemerythrins have a conserved non-heme diiron-binding site. Most of residues that participate in the coordination of the two iron ions are highly conserved. 
+Hemerythrins have a conserved non-heme diiron-binding site. Most of the residues that participate in the coordination of these two iron ions are highly conserved. 
 
 
 _______
