@@ -34,7 +34,7 @@ _____
 
    ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Hemerythrin_entries_per_prot.png)
 
-**3. Go to the *Macromolecules* tab to see the individual entries gruped by [UniProt](https://www.uniprot.org/) identifier.** 
+**3. Go to the *Macromolecules* tab to see the individual entries gruped by UniProt identifier.** 
 
    ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Molecules_tab.png)
    
