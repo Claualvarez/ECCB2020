@@ -44,7 +44,7 @@ Let's start by aligning two structures that share a homologous domain.
   - PDB files
   
 _______
-## Exercise 2
+## Exercise 2 : THIS IS NOT FINISHED YET!
 For the second exercise we will use a different pair of proteins that have a homologous domain.
 
 **1. Download the PDB coordinates file of [YtfE](http://www.rcsb.org/structure/5FNN) from _Escherichia coli K-12_ and save it in your working_directory.**
