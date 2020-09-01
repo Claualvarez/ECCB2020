@@ -92,7 +92,7 @@ Locate the alignment summary.
 
 Hemerythrins have a conserved non-heme diiron-binding site. Most of the residues that participate in the coordination of these two iron ions are highly conserved. Let's see if we can use this information to produce a biologically relevant structure superimposition.
 
-
+**1. Go to [MetalS2](http://metalweb.cerm.unifi.it/tools/metals2/)**
 _______
 ## Further reading
 
