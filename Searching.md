@@ -93,7 +93,7 @@ _____
  Are there results with a probability > 60% that were not retrieved using the information-driven search approach (Exercise 1)?
  How many new PDB codes did we obtain during this similarity search approach?
 
-**We will further analize some of these results in the next sections.**
+**We will analize some of these results in the next sections.**
 
 ## Further reading
 > Fitch WM. Homology a personal view on some of the problems.  
