@@ -64,11 +64,11 @@ _____
 
   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/HHpred_sequence.png)
   
-  - Select PDB_mmCIF70_23_Jul on the *Select structural/domain databases* menu.
+  **- Select PDB_mmCIF70_23_Jul on the *Select structural/domain databases* menu.**
     
     ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/HHpred_select_options.png)
     
-  - Click the submit button. 
+  **- Click the submit button.**
     
     ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/HHpred_submit.png)
     
@@ -76,7 +76,7 @@ _____
     To save some time, we pre-calculated the same search, the results cam be found [here](https://toolkit.tuebingen.mpg.de/jobs/Q60AX2). 
 
 
-**3. **
+**3. Examine the results**
 
 - By structure similarity: 
   - [PDBeFold](https://www.ebi.ac.uk/msd-srv/ssm/) 
