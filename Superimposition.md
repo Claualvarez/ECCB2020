@@ -1,6 +1,6 @@
 ## Overview of pairwise structure superimposition tools:
 
-Wikipedia has a list of many avaliable structural alignment programs: https://en.wikipedia.org/wiki/Structural_alignment_software \
+Wikipedia has a list of many avaliable [structural alignment programs](https://en.wikipedia.org/wiki/Structural_alignment_software). \
 In this tutorial we will use only a few of them.
 
 | Name          | Description   | Type  |
@@ -33,7 +33,7 @@ Let's start by aligning two structures that share a homologous domain.
   - The first part of the output contains the `Aligned length`, `RMSD`, `Seq_ID` (proportion of identical positions to aligned residues), and `TM-score`.
   - Next, you will see the structure-derived sequence alignment, which can be easily converted to a FASTA format using a text editor (or with a parsing script).
      - Always examine the structure-derived sequence alignment. 
-     - You can use the sequence alignment to seed a multiple sequence alignment (we will do this in the next session).
+     - *Tip:* You can use the sequence alignment to seed a multiple sequence alignment (we will do this in the next session).
   
     ![TM-align output for the alignment of 4xpx:A and 2p0n:A](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/TMalign_output.png?raw=true)
 
