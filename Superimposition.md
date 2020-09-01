@@ -54,7 +54,7 @@ Let's start by superimposing the structure of Bacteriohemerythrin to 2p0n, a pos
   
 _______
 ## Exercise 2: 4xpx vs. 5fnn 
-For the second exercise we will use a different pair of proteins that have a homologous domain.
+For the second exercise we will use a different pair of proteins. These two proteins are classifies as homologous by Pfam and InterPro.
 
 **1. Download the PDB coordinates file of [YtfE](https://www.ebi.ac.uk/pdbe/entry/pdb/5fnn) from _Escherichia coli K-12_ and save it in your working_directory.**
 
@@ -107,6 +107,9 @@ Hemerythrins have a conserved non-heme diiron-binding site. Most of the residues
   
 **4. Inspect the [results](http://metalweb.cerm.unifi.it/tools/metals2_results/1598987841.32/)**
 
+  ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/MetalS2_scores.png)
+  
+  ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/MetalsS2_seq_aln.png)
   
 _______
 ## Further reading
