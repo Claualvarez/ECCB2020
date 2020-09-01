@@ -58,9 +58,17 @@ _____
 
 ## Exercise 2: searching by  sequence similarity
  
-**1. Download and save the sequence of [Bacteriohemerythrin](https://www.uniprot.org/uniprot/Q60AX2.fasta) from _Methylococcus capsulatus_.**
+**1. Download or copy the sequence of [Bacteriohemerythrin](https://www.uniprot.org/uniprot/Q60AX2.fasta) from _Methylococcus capsulatus_.**
 
-**2. Go to [HHpred](https://toolkit.tuebingen.mpg.de/tools/hhpred)**
+**2. Go to [HHpred](https://toolkit.tuebingen.mpg.de/tools/hhpred) and paste or upload the sequence of Bacteriohemerythrin**
+
+  ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/HHpred_sequence.png)
+  
+  - Select PDB_mmCIF70_23_Jul on the *Select structural/domain databases* menu.
+    
+    ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/HHpred_select_options.png)
+
+**3. **
 
 - By structure similarity: 
   - [PDBeFold](https://www.ebi.ac.uk/msd-srv/ssm/) 
