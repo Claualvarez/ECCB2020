@@ -15,8 +15,8 @@ In this tutorial we will use only a few of them.
 
 
 _______
-## Exercise 1
-Let's start by aligning two structures that share a homologous domain.
+## Exercise 1: 4xpx vs. 2p0n
+Let's start by superimposing the structure of Bacteriohemerythrin to 2p0n, a possible homolog that we identified using [HHpred](https://github.com/Claualvarez/ECCB2020/blob/master/Searching.md).
 
 **1. Download the PDB coordinates files of [Bacteriohemeritrin](https://www.ebi.ac.uk/pdbe/entry/pdb/4xpx/) from _Methylococcus capsulatus str. Bath_ and the [Hypothetical protein NMB1532](https://www.ebi.ac.uk/pdbe/entry/pdb/2p0n) from _Neisseria meningitidis MC58_ and save them in your working_directory.** 
 
