@@ -4,14 +4,14 @@ There are two approaches to retrieve protein structural data: by annotation; or 
 The choice of strategy will depend on the type of information you have at the beginning of 
 your search, as well as on the problem you are trying to solve.
 
-| Database                            |
-|-------------------------------------|
-| [RCSB_PDB](https://www.rcsb.org/)   |
-| [PDBe](https://www.ebi.ac.uk/pdbe/) |
-| [PDBj](https://pdbj.org/)           |
-| [CATH](https://www.cathdb.info/)    |
-| [SCOPe](https://scop.berkeley.edu/) |
-| [ECOD](http://prodata.swmed.edu/ecod/) |
+| Database                               |      | 
+|----------------------------------------|------|
+| [RCSB_PDB](https://www.rcsb.org/)      |     |
+| [PDBe](https://www.ebi.ac.uk/pdbe/)    |     |
+| [PDBj](https://pdbj.org/)              | Protein Structure Classification database |
+| [CATH](https://www.cathdb.info/)       | Structure classification |
+| [SCOPe](https://scop.berkeley.edu/)    | Structural Classification of Proteins — extended |
+| [ECOD](http://prodata.swmed.edu/ecod/) | Evolutionary Classification of Protein Domains   |
 _____
 ## Exercise 1: searching by annotation (information-driven search approach) 
 
