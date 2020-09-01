@@ -50,6 +50,11 @@ _____
    
    ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/PDBe_hemerythrin_download.png)
    
+   The CSV file can be opened in a spreadsheet program (e.g. Excel) or in a text editor. \
+   It should look like this:
+   
+   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Homology_search_e1.png)
+   
 _____
    > _Got extra time? ... Explore PDBe-KB Aggregated Views of Proteins_ \
    > _Click on a PDBe-KB identifier to get a summary of structural and integrated data available for a full-length protein sequence._
@@ -75,7 +80,7 @@ _____
     ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/HHpred_submit.png)
     
     **The results may take a few minutes!** But, to save some time, we pre-calculated this search, the results can be found [here](https://toolkit.tuebingen.mpg.de/jobs/Q60AX2). \
-    Because we already run this search, HHpred will display the following message when you try to do the exact same search.
+    Because we already ran this search, HHpred will display the following message when you try to do the exact same search.
     
     ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/HHpred_already_exists.png)
 
