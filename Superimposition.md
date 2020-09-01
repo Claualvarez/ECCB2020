@@ -86,6 +86,7 @@ Locate the alignment summary.**
   How many residues have been aligned? \
   What is the RMSD of this superimposition?
   
+**Are these superimpositions substantially different? Why? And how do you decide which one to use?**
 
 _______
 ## Further reading
