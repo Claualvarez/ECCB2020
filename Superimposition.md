@@ -35,13 +35,13 @@ Let's start by aligning two structures that share a homologous domain.
      - Always examine the structure-derived sequence alignment. 
      - You can use the sequence alignment to seed a multiple sequence alignment (we will do this in the next session).
   
-  ![TM-align output for the alignment of 4xpx:A and 2p0n:A](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/TMalign_output.png?raw=true)
+    ![TM-align output for the alignment of 4xpx:A and 2p0n:A](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/TMalign_output.png?raw=true)
 
   - TM-align displays the structure superimposition of the two macromolecules. 
 
-  ![TM-align structure superimposition](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/TMalign_output-visualization.png)
+    ![TM-align structure superimposition](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/TMalign_output-visualization.png)
   
-  - PDB files
+  - Finally, TM-align outputs a set of PDB files of the structure superimposition. 
   
 _______
 ## Exercise 2 : THIS IS NOT FINISHED YET!
