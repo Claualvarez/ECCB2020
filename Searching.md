@@ -68,8 +68,8 @@ _____
     
     ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/HHpred_select_options.png)
     
-  - Click the submit button.
-    The results may take a few minutes.
+  - Click the submit button. \
+    The results may take a few minutes. \
     To save some time, we pre-calculated the same search, the results cam be found [here](https://toolkit.tuebingen.mpg.de/jobs/Q60AX2). 
     
     ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/HHpred_submit.png)
