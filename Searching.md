@@ -73,10 +73,11 @@ _____
     ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/HHpred_submit.png)
     
     The results may take a few minutes! \
-    To save some time, we pre-calculated the same search, the results cam be found [here](https://toolkit.tuebingen.mpg.de/jobs/Q60AX2). 
+    To save some time, we pre-calculated the same search, the results can be found [here](https://toolkit.tuebingen.mpg.de/jobs/Q60AX2). 
 
 
 **3. Examine the results**
+     Compare the PDB codes of the hits list to the results obtained in the previous exercise (Information-driven search).
 
 - By structure similarity: 
   - [PDBeFold](https://www.ebi.ac.uk/msd-srv/ssm/) 
