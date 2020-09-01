@@ -51,8 +51,8 @@ _____
    ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/PDBe_hemerythrin_download.png)
    
 _____
-   > *Got extra time? ... Explore PDBe-KB Aggregated Views of Proteins \
-   > Click on a PDBe-KB identifier to get a summary of structural and integrated data available for a full-length protein sequence.
+   > _Got extra time? ... Explore PDBe-KB Aggregated Views of Proteins_ \
+   > _Click on a PDBe-KB identifier to get a summary of structural and integrated data available for a full-length protein sequence._
    > 
    > ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/PDBeKB.png)
    >
