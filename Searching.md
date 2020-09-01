@@ -87,11 +87,11 @@ _____
 
 **3. Examine the results**
 
-     ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/HHpred_hits.png)
+![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/HHpred_hits.png)
      
-     Compare the PDB codes of the hits list to the results obtained in the previous exercise (Information-driven search).\
-     Are there results with a probability > 60% that were not retrieved using the information-driven search approach (Exercise 1)?
-     How many new PDB codes did we obtain during this similarity search approach?
+ Compare the PDB codes of the hits list to the results obtained in the previous exercise (Information-driven search).\
+ Are there results with a probability > 60% that were not retrieved using the information-driven search approach (Exercise 1)?
+ How many new PDB codes did we obtain during this similarity search approach?
 
 **We will further analize some of these results in the next sections.**
 
