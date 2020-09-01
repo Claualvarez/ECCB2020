@@ -35,6 +35,7 @@ _____
    ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Hemerythrin_entries_per_prot.png)
 
 **3. Go to the *Macromolecules* tab to see the individual entries gruped by [UniProt](https://www.uniprot.org/) identifier.** 
+   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Molecules_tab.png)
    To get the results of this search in csv file format, click on the *Download* button on the top right corner of the results page. 
    - Select the data you would like to download:
      - Macromolecule
