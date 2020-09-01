@@ -34,9 +34,12 @@ Let's start by aligning two structures that share a homologous domain.
     How many residues have been aligned? \
     What is the TM-score of this superimposition? 
     
-  - Next, you will see the structure-derived sequence alignment, which can be easily converted to a FASTA format using a text editor (or with a parsing script).
-     - Always examine the structure-derived sequence alignment. 
-     - *Tip:* You can use the sequence alignment to seed a multiple sequence alignment (we will do this in the next session).
+  - Next, you will see the structure-derived sequence alignment.
+     
+     > *Tip:* \
+     > Always examine the structure-derived sequence alignment. \
+     > The structure-derived sequence alignment can be easily converted to a FASTA format using a text editor (or with a parsing script). \
+     > You can use the sequence alignment to seed a multiple sequence alignment (we will do this in the next session).
   
     ![TM-align output for the alignment of 4xpx:A and 2p0n:A](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/TMalign_output.png?raw=true)
 
