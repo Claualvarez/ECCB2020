@@ -75,8 +75,8 @@ For the second exercise we will use a different pair of proteins that have a hom
 **6. Run the alignment or click [here](http://cospi.iiserpune.ac.in/click/output/01092020233149/01092020233149.html) to open the pre-computed superimposition.**
 
 **7. Examine the results and compare them to the superimposition that we previously computed using TM-align.** \
-Locate the alignment summary. \
-- How many residues have been aligned? \
+Locate the alignment summary.
+- How many residues have been aligned?
 - What is the RMSD of this superimposition?
 
 
