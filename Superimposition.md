@@ -88,6 +88,11 @@ Locate the alignment summary.**
   
 **Are these superimpositions substantially different? Why? And how do you decide which one to use?**
 
+## Exercise 3: Using a binding-site to superimpose proteins
+
+Hemerythrins have a conserved non-heme diiron-binding site. Most of residues that participate in the coordination of the two iron ions are highly conserved. 
+
+
 _______
 ## Further reading
 
