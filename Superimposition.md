@@ -61,14 +61,19 @@ For the second exercise we will use a different pair of proteins that have a hom
 **2. Go to the [TM-align](https://zhanglab.ccmb.med.umich.edu/TM-align/) web server page and upload the PDB file for 4xpx and 5fnn and run the superimposition by clicking the *Run TM-align* button.** 
 
 **3. Examine the [results](https://zhanglab.ccmb.med.umich.edu/TM-align/tmp/115059.html).** \
-    How many residues have been aligned? \
-    What is the TM-score of this superimposition? \
-    What is the RMSD of this superimposition?
-    
-**4. Let's try a different algorithm. Go to the [CLICK web server](http://cospi.iiserpune.ac.in/click/).** \
-
 
   ![TM-align output for the alignment of 2p0n:A and 5fnnA](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/TMalign_2p0n-5fnn_output.png)
+
+  How many residues have been aligned? \
+  What is the TM-score of this superimposition? \
+  What is the RMSD of this superimposition?
+    
+**4. Let's try a different algorithm. Go to the [CLICK web server](http://cospi.iiserpune.ac.in/click/).** 
+
+**5. Upload the files or provide the pdb codes of the proteins that we want to compare (4xpx and 5fnn).**
+
+**6. Run the alignment or click [here](http://cospi.iiserpune.ac.in/click/output/01092020233149/01092020233149.html) to open the pre-computed superimposition.**
+
 _______
 ## Further reading
 
