@@ -17,7 +17,7 @@ _____
 ## Exercise 1: searching by annotation (information-driven search approach) 
 
 **1. Go to [PDBe](https://www.ebi.ac.uk/pdbe/) and type "hemerythrin" in the search bar.** \
-   This will display a menu with automated suggestions for filters that can be applied to your search. \ 
+   This will display a menu with automated suggestions for filters that can be applied to your search. \
    In this example, there are three filters for "hemerythrin": 
    - **Molecule name** \
      This filter will allow you to retrieve all molecules annotated as "hemerytrin". \
