@@ -30,6 +30,8 @@ Let's start by superimposing the structure of Bacteriohemerythrin to 2p0n, a pos
   
 **3. Examine and save the [results](https://zhanglab.ccmb.med.umich.edu/TM-align/tmp/103021.html).** 
   
+    ![TM-align output for the alignment of 4xpx:A and 2p0n:A](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/TMalign_output.png?raw=true)
+    
   - The first part of the output contains the `Aligned length`, `RMSD`, `Seq_ID` (proportion of identical positions to aligned residues), and `TM-score`.\
     How many residues have been aligned? \
     What is the TM-score of this superimposition? \
@@ -37,21 +39,19 @@ Let's start by superimposing the structure of Bacteriohemerythrin to 2p0n, a pos
     
   - Next, you will see the structure-derived sequence alignment.
      
-     > *Tip:* \
-     > Always examine the structure-derived sequence alignment. \
-     > The structure-derived sequence alignment can be easily converted to a FASTA format using a text editor (or with a parsing script). \
-     > Just remeber: \
-     >   (":" denotes aligned residue pairs of d < 5.0 A, "." denotes other aligned residues) \
-     > You can use the sequence alignment to seed a multiple sequence alignment (we will do this in the next session).
-  
-    ![TM-align output for the alignment of 4xpx:A and 2p0n:A](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/TMalign_output.png?raw=true)
-
   - TM-align displays the structure superimposition of the two macromolecules. 
 
     ![TM-align structure superimposition](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/TMalign_output-visualization.png)
   
   - Finally, TM-align outputs a set of PDB files of the structure superimposition. 
   
+     > *Tip:* \
+     > Always examine the structure-derived sequence alignment. \
+     > The structure-derived sequence alignment can be easily converted to a FASTA format using a text editor (or with a parsing script). \
+     > Just remeber: \
+     >   (":" denotes aligned residue pairs of d < 5.0 A, "." denotes other aligned residues) \
+     > You can use the sequence alignment to seed a multiple sequence alignment (we will do this in the next session).
+
 _______
 ## Exercise 2: 4xpx vs. 5fnn 
 For the second exercise we will use a different pair of proteins. These two proteins are classifies as homologous by Pfam and InterPro.
