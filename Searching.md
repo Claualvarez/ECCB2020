@@ -31,8 +31,8 @@ _____
 
 **2. Select the results for [Sequence family : PF01814 : Hemerythrin](https://www.ebi.ac.uk/pdbe/entry/search/index/?searchParams=%7B%22q_all_sequence_family%22:%5B%7B%22value%22:%22PF01814%20:%20Hemerythrin%22,%22condition1%22:%22AND%22,%22condition2%22:%22Contains%22%7D%5D,%22resultState%22:%7B%22tabIndex%22:0,%22paginationIndex%22:1,%22perPage%22:%2210%22,%22sortBy%22:%22Sort%20by%22%7D%7D).** \
    This page will display all entries associated with the Hemerythrin family in Pfam. \
-   Note that the same [UniProt](https://www.uniprot.org/)/PDBe-KB identifier may appear in different PDB entries. \
-   For example: 2awc and 2awy have the same PDBe-KB identifier. 
+   Note that the same UniProt/PDBe-KB identifier may appear in different PDB entries. \
+   For example: 2awc and 2awy have the same PDBe-KB identifier. \
 
    ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Hemerythrin_entries_per_prot.png)
 
@@ -41,7 +41,7 @@ _____
    ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Molecules_tab.png)
    
    To get the results of this search in csv file format, click on the *Download* button on the top right corner of the results page. 
-   - Select the data you would like to download:
+   - Select the data that you would like to download:
      - Macromolecule
      - PDB ID
    - Download as:
@@ -51,7 +51,7 @@ _____
    ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/PDBe_hemerythrin_download.png)
    
 _____
-   > Got extra time? ... Explore PDBe-KB Aggregated Views of Proteins \
+   > *Got extra time? ... Explore PDBe-KB Aggregated Views of Proteins \
    > Click on a PDBe-KB identifier to get a summary of structural and integrated data available for a full-length protein sequence.
    > 
    > ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/PDBeKB.png)
