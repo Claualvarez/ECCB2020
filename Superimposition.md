@@ -20,7 +20,7 @@ Let's start by aligning two structures that share a homologous domain.
 
 **1. Download the PDB coordinates files of [Bacteriohemeritrin](https://www.ebi.ac.uk/pdbe/entry/pdb/4xpx/) from _Methylococcus capsulatus str. Bath_ and the [Hypothetical protein NMB1532](https://www.ebi.ac.uk/pdbe/entry/pdb/2p0n) from _Neisseria meningitidis MC58_ and save them in your working_directory.** 
 
-**2. Go to the [TM-align](https://zhanglab.ccmb.med.umich.edu/TM-align/) web server page and upload the two PDB file that you downloaded in the previous step.**
+**2. Go to the [TM-align](https://zhanglab.ccmb.med.umich.edu/TM-align/) web server page and upload the two PDB files that you just downloaded.**
 
   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/TM-align.png)
   
@@ -30,7 +30,10 @@ Let's start by aligning two structures that share a homologous domain.
   
 **3. Examine and save the [results](https://zhanglab.ccmb.med.umich.edu/TM-align/tmp/103021.html).** 
   
-  - The first part of the output contains the `Aligned length`, `RMSD`, `Seq_ID` (proportion of identical positions to aligned residues), and `TM-score`.
+  - The first part of the output contains the `Aligned length`, `RMSD`, `Seq_ID` (proportion of identical positions to aligned residues), and `TM-score`.\
+    How many residues have been aligned? \
+    What is the TM-score of this superimposition? 
+    
   - Next, you will see the structure-derived sequence alignment, which can be easily converted to a FASTA format using a text editor (or with a parsing script).
      - Always examine the structure-derived sequence alignment. 
      - *Tip:* You can use the sequence alignment to seed a multiple sequence alignment (we will do this in the next session).
