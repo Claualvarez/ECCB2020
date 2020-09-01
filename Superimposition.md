@@ -70,6 +70,8 @@ For the second exercise we will use a different pair of proteins that have a hom
     
 **4. Let's try a different algorithm. Go to the [CLICK web server](http://cospi.iiserpune.ac.in/click/).** 
 
+  ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/CLICK_homepage.png)
+
 **5. Upload the files or provide the pdb codes of the proteins that we want to compare (4xpx and 5fnn).**
 
 **6. Run the alignment or click [here](http://cospi.iiserpune.ac.in/click/output/01092020233149/01092020233149.html) to open the pre-computed superimposition.**
@@ -93,6 +95,9 @@ Locate the alignment summary.
 Hemerythrins have a conserved non-heme diiron-binding site. Most of the residues that participate in the coordination of these two iron ions are highly conserved. Let's see if we can use this information to produce a biologically relevant structure superimposition.
 
 **1. Go to [MetalS2](http://metalweb.cerm.unifi.it/tools/metals2/)**
+
+  ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/MetalS2_homepage.png)
+  
 _______
 ## Further reading
 
