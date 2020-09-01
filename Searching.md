@@ -80,17 +80,17 @@ _____
     ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/HHpred_submit.png)
     
     **The results may take a few minutes!** But, to save some time, we pre-calculated this search, the results can be found [here](https://toolkit.tuebingen.mpg.de/jobs/Q60AX2). \
-    Because we already ran this search, HHpred will display the following message when you try to do the exact same search.
+    Because we already ran this search, HHpred will display the following message when you try to do the exact same search. \
+    We suggest to click the *Load existing job* button.
     
     ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/HHpred_already_exists.png)
 
 **3. Examine the results** \
      Compare the PDB codes of the hits list to the results obtained in the previous exercise (Information-driven search).\
      Are there results with a probability > 60% that were not retrieved using the information-driven search approach (Exercise 1)?
+     How many new PDB codes did we obtain during this similarity search approach?
 
-- By structure similarity: 
-  - [PDBeFold](https://www.ebi.ac.uk/msd-srv/ssm/) 
-  - [DALI - PDB search](http://ekhidna2.biocenter.helsinki.fi/dali/)
+**We will further analize some of these results in the next sections.**
 
 ## Further reading
 > Fitch WM. Homology a personal view on some of the problems.  
