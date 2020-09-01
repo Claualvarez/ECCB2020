@@ -53,7 +53,7 @@ Let's start by superimposing the structure of Bacteriohemerythrin to 2p0n, a pos
   - Finally, TM-align outputs a set of PDB files of the structure superimposition. 
   
 _______
-## Exercise 2: 4xpx vs. 5fnn THIS IS NOT FINISHED YET!
+## Exercise 2: 4xpx vs. 5fnn 
 For the second exercise we will use a different pair of proteins that have a homologous domain.
 
 **1. Download the PDB coordinates file of [YtfE](https://www.ebi.ac.uk/pdbe/entry/pdb/5fnn) from _Escherichia coli K-12_ and save it in your working_directory.**
@@ -74,7 +74,12 @@ For the second exercise we will use a different pair of proteins that have a hom
 
 **6. Run the alignment or click [here](http://cospi.iiserpune.ac.in/click/output/01092020233149/01092020233149.html) to open the pre-computed superimposition.**
 
-**7. Examine the results and compare them to the superimposition coputed with TM-align. Pay particular attention to the structure-derived sequence alignment.**
+**7. Examine the results and compare them to the superimposition coputed with TM-align. \
+Locate the alignment summary.**
+
+  ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/CLICK_summary.png)
+  
+**Pay particular attention to the structure-derived sequence alignment.**
 
   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/CLICK_seq_aln.png)
   
