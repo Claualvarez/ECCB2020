@@ -90,7 +90,7 @@ Locate the alignment summary.
 
 ## Exercise 3: Using a binding-site to superimpose proteins
 
-Hemerythrins have a conserved non-heme diiron-binding site. Most of the residues that participate in the coordination of these two iron ions are highly conserved. 
+Hemerythrins have a conserved non-heme diiron-binding site. Most of the residues that participate in the coordination of these two iron ions are highly conserved. Let's see if we can use this information to produce a biologically relevant structure superimposition.
 
 
 _______
