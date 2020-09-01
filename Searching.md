@@ -76,8 +76,9 @@ _____
     To save some time, we pre-calculated the same search, the results can be found [here](https://toolkit.tuebingen.mpg.de/jobs/Q60AX2). 
 
 
-**3. Examine the results**
-     Compare the PDB codes of the hits list to the results obtained in the previous exercise (Information-driven search).
+**3. Examine the results** \
+     Compare the PDB codes of the hits list to the results obtained in the previous exercise (Information-driven search).\
+     Are there any new possible homologs?
 
 - By structure similarity: 
   - [PDBeFold](https://www.ebi.ac.uk/msd-srv/ssm/) 
