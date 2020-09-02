@@ -4,7 +4,7 @@ In the 1960s, Christian Anfinsen postulated that the unique three-dimensional st
 
 Protein structure prediction techniques fall into two main categories: Template-free (or de novo) and Template-based (or homology-modeling). The first one do not use any known structures. Useful when not a single structure in a protein family is known. Whereas the Template-based employ the similarity to another protein whose three-dimensional structure is known. 
 
-Whereas there exist many Protein structure predictors, Intrinsically Disordered Proteins (IDPs) and Intrinsically Disordered  Regions (IDRs) can be inferred by the amino acid sequence. The distinct sequence features that are present in IDPs and IDRs allow the construction of sequence based rules that can facilitate high performance disorder prediction.
+Whereas several protein structure predictors, Intrinsically Disordered Proteins (IDPs) and Intrinsically Disordered  Regions (IDRs) also can be inferred by the amino acid sequence. The distinct sequence features that are present in IDPs and IDRs allow the construction of sequence based rules that can facilitate high performance disorder prediction.
 
 _______
 ## Exercise 1: Template-based structure prediction
