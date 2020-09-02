@@ -73,21 +73,21 @@ _____
   
   - **Select PDB_mmCIF70_23_Jul on the *Select structural/domain databases* menu.**
     
-    ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/HHpred_select_options.png)
+  ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/HHpred_select_options.png)
     
   - **Click the *Submit* button.**
     
-    ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/HHpred_submit.png)
+  ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/HHpred_submit.png)
     
     **The results may take a few minutes!** But, to save some time, we pre-calculated this search, the results can be found [here](https://toolkit.tuebingen.mpg.de/jobs/Q60AX2). \
     Because we already ran this search, HHpred will display the following message when you try to do the exact same search. \
     We suggest to click the *Load existing job* button.
     
-    ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/HHpred_already_exists.png)
+  ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/HHpred_already_exists.png)
 
 **3. Examine the results**
 
-![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/HHpred_hits.png)
+  ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/HHpred_hits.png)
      
  Compare the PDB codes of the hits list to the results obtained in the previous exercise (Information-driven search).\
  Are there results with a probability > 60% that were not retrieved using the information-driven search approach (Exercise 1)?
