@@ -26,7 +26,7 @@ Goal: Predict a protein structure by homology modeling methods, based on the seq
 
 6. The results of the templates will be listed together with some relevant structural information. Select the code "4xpw.1.A". Click on the arrow at the the left of side and it will appear a description of the template of your selection.
 
- ![templateswissmodel.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/templateswissmodel.png?raw=true)
+ ![templatesswissmodel.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/templatesswissmodel.png?raw=true)
 
 7. Click on the blue button "Build model" and then on the upper blue button "Build models"
 
@@ -61,7 +61,9 @@ Goal: Predict disordered regions from a fasta sequence and get familiarized with
 _______
 ## Further reading
 >  Kuhlman B, Bradley P. Advances in protein structure prediction and design. Nature Reviews Molecular Cell Biology. 2019. 20:681–697.
+
 >  Nielsen J, Mulder F. Quality and bias of protein disorder Predictors. Scientific Reports. .2019. 9:5137. doi.org/10.1038/s41598-019-41644-w.
+
 >  Necci M​,  Piovesan D,​ CAID Predictors ​, DisProt Curators ​. Tosatto S. Critical Assessment of Protein Intrinsic Disorder Prediction.  doi:10.1101/2020.08.11.245852.
 >  van der Lee et al. Classification of Intrinsically Disordered Regions and Proteins.  Chem. Rev. 2014. 114: 6589−6631. doi:10.1021/cr400525. 
 
