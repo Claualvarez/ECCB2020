@@ -39,7 +39,12 @@ Is time to download the atomic coordinate file of our protein of interest
 
 _______
 ## Further reading
-> Berman H, Westbrook J, Feng Z, Gilliland T, Bhat T, Weissig H, Shindyalov I, Bourne P. The Protein Data Bank. Nucleic Acids Research. 2000. 28: 235-242. doi:10.1093/nar/28.1.235
+>  Berman H, Westbrook J, Feng Z, Gilliland T, Bhat T, Weissig H, Shindyalov I, Bourne P. The Protein Data Bank. Nucleic Acids Research. 2000. 28: 235-242. doi:10.1093/nar/28.1.235.
+
+>  Berman H, Westbrook J, Feng Z, Gilliland T, Bhat T, Weissig H, Shindyalov I, Bourne P. The Protein Data Bank. Nucleic Acids Research. 2000. 28: 235-242. doi:10.1093/nar/28.1.235. PDB101.rcsb.org.
+
+>  Velankar, S., Alhroub, Y., Alili, A., Best, C., Boutselakis, H. C., Caboche, S., Conroy, M. J., Dana, J. M., van Ginkel, G., Golovin, A., Gore, S. P., Gutmanas, A., Haslam, P., Hirshberg, M., John, M., Lagerstedt, I., Mir, S., Newman, L. E., Oldfield, T. J., Penkett, C. J., … Kleywegt, G. J. (2011). PDBe: Protein Data Bank in Europe. Nucleic acids research, 39(Database issue), D402–D410. https://doi.org/10.1093/nar/gkq985https://www.ebi.ac.uk/pdbe/training.
+
 
 
 
