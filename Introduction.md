@@ -2,7 +2,7 @@
 _____
 The Protein Data Bank (PDB, pdb.org) is the unique repository of atomic coordinate files and other information about nucleic acids, proteins and complexes. Each coordinate file consists of a list of atoms in each structure and their 3D location in space.
  
-The PDB is managed jointly by the World- wide Protein Data Bank (wwPDB) consortium and is conformed by many members all around the world, in-cluding the US Research Collaboratory for Structural Bioinformatics Protein Data Bank ([RCSB PDB](https://www.rcsb.org/)), the Protein Data Bank in Europe ([PDBe](pdbe.org)), Protein Data Bank Japan ([PDBj](pdbj.org)) and BioMagResBank ([BMRB](www.bmrb.wisc.edu))
+The PDB is managed jointly by the World- wide Protein Data Bank (wwPDB) consortium and is conformed by many members all around the world, in-cluding the US Research Collaboratory for Structural Bioinformatics Protein Data Bank ([RCSB PDB](https://www.rcsb.org/)), the Protein Data Bank in Europe ([PDBe](pdbe.org)), Protein Data Bank Japan ([PDBj](pdbj.org)) and BioMagResBank ([BMRB](www.bmrb.wisc.edu)).
 
 
 _____
@@ -11,10 +11,23 @@ _____
 Goal: Search for structural data in PDB and explore the available information for the protein of interest. This exercise will be focused on how to identify the pfam architecture, the secondary structure content, found the links to the domain classification databases (CATH and SCOP) and visualize the tridimensional structures of protein domains.
 
 1. Go to the [PDBe](https://www.ebi.ac.uk/pdbe/) site and in the "search" upper right green icon, write "Hemerythrin". 
-2. Direct to the "Macromolecules" section in the upper left side and click on the "Organism superkingdom" and select "Archaea".
+
+![hemerythrinsearch.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/hemerythrinsearch.png?raw=true)
+
+2. Search in the "Macromolecules" section in the upper left side and click on the "Organism superkingdom", then select "Archaea".
+
+![Macromolecules.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Macromolecules.png?raw=true)
+
 3. Click on the structure [3cax](https://www.ebi.ac.uk/pdbe/entry/pdb/3cax).
 4. In the main page, you will find the grey box "Structure analysis" in the lower right side. Click on [Molecule details](https://www.ebi.ac.uk/pdbe/entry/pdb/3cax/protein/1).
+
+![Macromolecules.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Macromolecules.png?raw=true)
+
 5. Locate the middle section "Visualisation". Find the "Pfam" row and signal the domain "Hemerythrin HHE cation binding domain". Observe that in the visualizer your that domain is now highlighted in pink. Identify the regions of the domain (9-148).
+
+![Macromolecules.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Macromolecules.png?raw=true)
+
+
 6. Find the "Sec. str" section.
 7. In the "CATH" section, you will see that your domain correspond to the CATH superfamily (1.20.120.520)[http://www.cathdb.info/version/latest/superfamily/1.20.120.520]. 
 
