@@ -30,13 +30,15 @@ Goal: Search for structural data in PDB and explore the available information fo
 
 ![pfam.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/pfam.png?raw=true)
 
-
 6. Find the "Sec. str" section. The alpha helices are signalized as green bars, whereas the beta strand elements, with blue arrows along the sequence.
-7. In the "CATH" section, you will see that your domain correspond to the CATH superfamily (1.20.120.520)[http://www.cathdb.info/version/latest/superfamily/1.20.120.520]. 
+7. Let´s find if our protein has assigned a protein domain in CATH or SCOP databases. Go to the main page of [3cax](https://www.ebi.ac.uk/pdbe/entry/pdb/3cax). upper-right box "Quick links", find the section "Structure analysis" and click on it. 
 
-![3cax_visualization_domain_pdbe](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/3CAX_domainpdbeCATH.png?raw=true)
+![Structureanalysis.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Structureanalysis.png?raw=true)
 
-
+8. In this section, you will find the (CATH)[http://www.cathdb.info/version/latest/superfamily/1.20.120.520] link and other relevant biological information, as the PFAM domains and the prefered multimeric state by chain. Our protein is an homo dimer.
+ 
+![cathpfaminterproassembly.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/cathpfaminterproassembly.png?raw=true)
+ 
 Note: Although you can use the PDB visualization system, you can also explore all the (Molecular Graphics Software programs)[https://www.rcsb.org/pages/thirdparty/molecular_graphics].
 
 
