@@ -8,7 +8,10 @@ The PDB is managed jointly by the World- wide Protein Data Bank (wwPDB) consorti
 _____
 ## Exercise 1
 
-Let´s search an structure in the PDB and explore the database
+Protein Data Bank (PDB) exploration
+
+Goal: Search for structural data in PDB and explore the available information for the protein of interest. This exercise will be focused on how to identify the pfam architecture, the secondary structure content, found the links to the domain classification databases (CATH and SCOP) and visualize the tridimensional structures of protein domains.
+
 1. Go to the [PDBe](https://www.ebi.ac.uk/pdbe/) site and in the "search" upper right green icon, write "Hemerythrin". 
 2. Direct to the "Macromolecules" section in the upper left side and click on the "Organism superkingdom" and select "Archaea".
 3. Click on the structure [3cax](https://www.ebi.ac.uk/pdbe/entry/pdb/3cax).
@@ -22,6 +25,10 @@ Let´s search an structure in the PDB and explore the database
 
 _______
 ## Exercise 2
+
+Retrieving structural data
+
+Goal: Download atomic coordinate files from the PDB.
 
 Is time to download the atomic coordinate file of our protein of interest
 1. Go to the main page of the structure [3cax](https://www.ebi.ac.uk/pdbe/entry/pdb/3cax).
