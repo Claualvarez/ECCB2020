@@ -10,7 +10,17 @@ _______
 ## Exercise 1: Template-based structure prediction
 
 Goal: Predict a protein structure by homology modeling methods, based on the sequence similarity to another protein whose three-dimensional structure is determined.
- 
+
+1. Go to the (SWISS-MODEL)[https://swissmodel.expasy.org/interactive] site. 
+2. Access to the (UniProt site)[https://www.uniprot.org/] and search the code ("Q0PC81")]. This is the protein you will model, the hemerythrin of Campylobacter jejuni.
+3. Go back to the (SWISS-MODEL)[https://swissmodel.expasy.org/interactive] site and paste the code "Q0PC81" in the Target Sequence(s)" space.
+
+![swissmodel.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/swissmodel.png?raw=true)
+
+
+4. Add a title to your project, name it "Hemerythrin" and append your email (optional).
+5. Click on the left blue button "Search for templates". 
+6. 
  
  
 _______
@@ -30,7 +40,7 @@ Goal: Predict disordered regions from a fasta sequence and get familiarized with
 7. Search for your protein with their UniProt code "O00488" in the (DisProt database)[https://www.disprot.org/]. 
 8. Explore all the available experimental information and disorder biological information related with your (protein)[https://www.disprot.org/DP00549?release=current&show_ambiguous=true&show_obsolete=false].
 
- ![IUPredlong results](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/DisProt_O00488.png?raw=true)
+ ![DisProt_O00488](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/DisProt_O00488.png?raw=true)
  
 
 _______
