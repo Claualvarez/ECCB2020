@@ -28,11 +28,11 @@ Goal: Predict a protein structure by homology modeling methods, based on the seq
 
  ![templateswissmodel.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/templateswissmodel.png?raw=true)
 
-7. Click on the blue button "Build model". Once your model has been done, click on the upper blue button "Build models"
+7. Click on the blue button "Build model" and then on the upper blue button "Build models"
 
  ![modeltemplateswissmodel.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/modeltemplateswissmodel.png?raw=true)
  
- 
+ 8. Your model is done!. If you want to download your results, press the button at the left of the "x". Model coordinates will be available in two different formats: DeepView project files and PDB format. 
 
 
 Note: We recommend you to read the help section of (SWISS-MODEL)[https://swissmodel.expasy.org/docs/help#new_project] to obtain detailed information.
@@ -60,8 +60,11 @@ Goal: Predict disordered regions from a fasta sequence and get familiarized with
 
 _______
 ## Further reading
+>  Kuhlman B, Bradley P. Advances in protein structure prediction and design. Nature Reviews Molecular Cell Biology. 2019. 20:681–697.
+>  Nielsen J, Mulder F. Quality and bias of protein disorder Predictors. Scientific Reports. .2019. 9:5137. doi.org/10.1038/s41598-019-41644-w.
 >  Necci M​,  Piovesan D,​ CAID Predictors ​, DisProt Curators ​. Tosatto S. Critical Assessment of Protein Intrinsic Disorder Prediction.  doi:10.1101/2020.08.11.245852.
-> van der Lee et al. Classification of Intrinsically Disordered Regions and Proteins.  Chem. Rev. 2014. 114: 6589−6631. doi:10.1021/cr400525. 
+>  van der Lee et al. Classification of Intrinsically Disordered Regions and Proteins.  Chem. Rev. 2014. 114: 6589−6631. doi:10.1021/cr400525. 
+
 
 
 
