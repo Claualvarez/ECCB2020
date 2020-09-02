@@ -13,16 +13,31 @@ Goal: Predict a protein structure by homology modeling methods, based on the seq
 
 1. Go to the (SWISS-MODEL)[https://swissmodel.expasy.org/interactive] site. 
 2. Access to the (UniProt site)[https://www.uniprot.org/] and search the code ("Q0PC81")]. This is the protein you will model, the hemerythrin of Campylobacter jejuni.
-3. Go back to the (SWISS-MODEL)[https://swissmodel.expasy.org/interactive] site and paste the code "Q0PC81" in the Target Sequence(s)" space.
+3. Go back to the (SWISS-MODEL)[https://swissmodel.expasy.org/interactive] site and paste the code "Q0PC81" (without quotation marks) in the "Target Sequence(s)" space.
 
 ![swissmodel.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/swissmodel.png?raw=true)
 
+![swissmodel.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/uniprotsequencesp.png?raw=true)
 
 4. Add a title to your project, name it "Hemerythrin" and append your email (optional).
-5. Click on the left blue button "Search for templates". 
-6. 
+5. Click on the left blue button "Search for templates". The templates search will use (BLAST)[https://blast.ncbi.nlm.nih.gov/Blast.cgi] and (HHblits)[.de/tools/hhblits]. Wait for some minutes.
+
+ ![waitswissmodel.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/waitswissmodel.png?raw=true)
+
+6. The results of the templates will be listed together with some relevant structural information. Select the code "4xpw.1.A". Click on the arrow at the the left of side and it will appear a description of the template of your selection.
+
+ ![templateswissmodel.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/templateswissmodel.png?raw=true)
+
+7. Click on the blue button "Build model". Once your model has been done, click on the upper blue button "Build models"
+
+ ![modeltemplateswissmodel.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/modeltemplateswissmodel.png?raw=true)
  
  
+
+
+Note: We recommend you to read the help section of (SWISS-MODEL)[https://swissmodel.expasy.org/docs/help#new_project] to obtain detailed information.
+
+
 _______
 ## Exercise 2: Intrinsically disordered regions prediction
 
