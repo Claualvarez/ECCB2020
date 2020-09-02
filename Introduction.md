@@ -26,12 +26,12 @@ Goal: Search for structural data in PDB and explore the available information fo
 
 ![Moleculedetails.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Moleculedetails.png?raw=true)
 
-5. Locate the middle section "Visualisation". Find the "Pfam" row and signal the domain "Hemerythrin HHE cation binding domain". Observe that in the visualizer your that domain is now highlighted in pink. Identify the regions of the domain (9-148).
+5. In the upper section, you will find the fasta sequence of the protein and their UniProt code. Now locate the middle section "Visualisation". Find the "Pfam" row and signal the domain "Hemerythrin HHE cation binding domain". Observe that in the visualizer your that domain is now highlighted in pink. Identify the regions of the domain (9-148).
 
-![Macromolecules.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Macromolecules.png?raw=true)
+![pfam.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/pfam.png?raw=true)
 
 
-6. Find the "Sec. str" section.
+6. Find the "Sec. str" section. The alpha helices are signalized as green bars, whereas the beta strand elements, with blue arrows along the sequence.
 7. In the "CATH" section, you will see that your domain correspond to the CATH superfamily (1.20.120.520)[http://www.cathdb.info/version/latest/superfamily/1.20.120.520]. 
 
 ![3cax_visualization_domain_pdbe](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/3CAX_domainpdbeCATH.png?raw=true)
