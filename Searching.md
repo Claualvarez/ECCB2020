@@ -79,9 +79,9 @@ _____
     
   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/HHpred_submit.png)
     
-    **The results may take a few minutes!** But, to save some time, we pre-calculated this search, the results can be found [here](https://toolkit.tuebingen.mpg.de/jobs/Q60AX2). \
-    Because we already ran this search, HHpred will display the following message when you try to do the exact same search. \
-    We suggest to click the *Load existing job* button.
+   **The results may take a few minutes!** But, to save some time, we pre-calculated this search, the results can be found [here](https://toolkit.tuebingen.mpg.de/jobs/Q60AX2). \
+   Because we already ran this search, HHpred will display the following message when you try to do the exact same search. \
+   We suggest to click the *Load existing job* button.
     
   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/HHpred_already_exists.png)
 
