@@ -21,6 +21,9 @@ Goal: Search for structural data in PDB and explore the available information fo
 ![3cax_visualization_domain_pdbe](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/3CAX_domainpdbeCATH.png?raw=true)
 
 
+Note: Although you can use the PDB visualization system, you can also explore all the (Molecular Graphics Software programs)[https://www.rcsb.org/pages/thirdparty/molecular_graphics].
+
+
 _______
 ## Exercise 2: Retrieving structural data from PDB
 
