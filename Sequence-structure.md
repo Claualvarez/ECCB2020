@@ -1,12 +1,20 @@
 # Correspondences between protein sequence and structure
 _____
-In the 1960s, Christian Anfinsen postulated that the unique three-dimensional structure of a protein is determined by its amino acid sequence (sequence–structure–function paradigm). However, intrinsically disordered proteins and regions does not conform to this postulate. Disordered regions contribute to protein function and do not fold into a defined tertiary structure.
+In the 1960s, Christian Anfinsen postulated that the unique three-dimensional structure of a protein is determined by its amino acid sequence (sequence–structure–function paradigm). However, there are some exceptions, intrinsically disordered proteins and regions does not conform to this postulate. Disordered regions contribute to protein function and do not fold into a defined tertiary structure.
 
 Protein structure prediction techniques fall into two main categories: Template-free (or de novo) and Template-based (or homology-modeling). The first one do not use any known structures. Useful when not a single structure in a protein family is known. Whereas the Template-based employ the similarity to another protein whose three-dimensional structure is known. 
 
+Whereas there exist many Protein structure predictors, Intrinsically Disordered Proteins (IDPs) and Intrinsically Disordered  Regions (IDRs) can be inferred by the amino acid sequence. The distinct sequence features that are present in IDPs and IDRs allow the construction of sequence based rules that can facilitate high performance disorder prediction.
+
+_______
+## Exercise 1: Template-based structure prediction
+ 
+ 
+ 
  
 _______
-## Exercise 
+## Exercise 2: Intrinsically disordered regions prediction
+
 Predict intrinsically disordered regions in our protein of interest
 1. Prepare the fasta sequence of your protein of interest. If you´re interested in predict the disorder in a PDB entry, go to the main page [1zr9](https://www.ebi.ac.uk/pdbe/entry/pdb/1zr9).
 2. In the main page, you will find the grey box "Structure analysis" in the lower right side. Click on [Molecule details](https://www.ebi.ac.uk/pdbe/entry/pdb/1zr9/protein/1). In the upper gray box, identify the term "UniProt:" and copy the code (O00488).
