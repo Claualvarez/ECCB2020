@@ -8,14 +8,16 @@ Whereas there exist many Protein structure predictors, Intrinsically Disordered 
 
 _______
 ## Exercise 1: Template-based structure prediction
- 
+
+Goal: Predict a protein structure by homology modeling methods, based on the sequence similarity to another protein whose three-dimensional structure is determined.
  
  
  
 _______
 ## Exercise 2: Intrinsically disordered regions prediction
 
-Predict intrinsically disordered regions in our protein of interest
+Goal: Predict disordered regions from a fasta sequence and get familiarized with the common output format of disordered predictors.
+
 1. Prepare the fasta sequence of your protein of interest. If you´re interested in predict the disorder in a PDB entry, go to the main page [1zr9](https://www.ebi.ac.uk/pdbe/entry/pdb/1zr9).
 2. In the main page, you will find the grey box "Structure analysis" in the lower right side. Click on [Molecule details](https://www.ebi.ac.uk/pdbe/entry/pdb/1zr9/protein/1). In the upper gray box, identify the term "UniProt:" and copy the code (O00488).
 3. Go to the [UniProt site](https://www.uniprot.org/) and search fot the UniProt code (O00488)[https://www.uniprot.org/uniprot/O00488]. Search for the (fasta sequence)[https://www.uniprot.org/uniprot/O00488.fasta] and copy it in the text editor installed in your computer.
