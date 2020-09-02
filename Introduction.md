@@ -6,9 +6,7 @@ The PDB is managed jointly by the World- wide Protein Data Bank (wwPDB) consorti
 
 
 _____
-## Exercise 1
-
-Protein Data Bank (PDB) exploration
+## Exercise 1: Protein Data Bank (PDB) exploration
 
 Goal: Search for structural data in PDB and explore the available information for the protein of interest. This exercise will be focused on how to identify the pfam architecture, the secondary structure content, found the links to the domain classification databases (CATH and SCOP) and visualize the tridimensional structures of protein domains.
 
@@ -24,9 +22,7 @@ Goal: Search for structural data in PDB and explore the available information fo
 
 
 _______
-## Exercise 2
-
-Retrieving structural data
+## Exercise 2: Retrieving structural data from PDB
 
 Goal: Download atomic coordinate files from the PDB.
 
