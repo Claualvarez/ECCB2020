@@ -1,6 +1,8 @@
 ## Exercise 1: From structure to sequence
 
-http://strcomp.protein.osaka-u.ac.jp/matras/  
+**1. Go to the [MATRAS](http://strcomp.protein.osaka-u.ac.jp/matras/) web page.** \
+We want to calculate a Multiple Sequence Alignment. On the menu, locate the [Multiple 3D Alignment link](http://strcomp.protein.osaka-u.ac.jp/matras/matras_multi.html), and click to go to the algorithm page. 
+  
 https://mafft.cbrc.jp/alignment/server/add.html
 - Phylogenetic inference 
 
