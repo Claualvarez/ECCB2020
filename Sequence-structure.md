@@ -33,7 +33,13 @@ Predict intrinsically disordered regions in our protein of interest
 
 _______
 ## Further reading
- 
+>  Necci M​,  Piovesan D,​ CAID Predictors ​, DisProt Curators ​. Tosatto S. Critical Assessment of Protein Intrinsic Disorder Prediction.  doi:10.1101/2020.08.11.245852.
+> van der Lee et al. Classification of Intrinsically Disordered Regions and Proteins.  Chem. Rev. 2014. 114: 6589−6631. doi:10.1021/cr400525. 
+
+
+
+
+
 
 
 
