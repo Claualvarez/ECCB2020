@@ -19,9 +19,12 @@ Goal: Search for structural data in PDB and explore the available information fo
 ![Macromolecules.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Macromolecules.png?raw=true)
 
 3. Click on the structure [3cax](https://www.ebi.ac.uk/pdbe/entry/pdb/3cax).
+
+![3cax.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/3cax.png?raw=true)
+
 4. In the main page, you will find the grey box "Structure analysis" in the lower right side. Click on [Molecule details](https://www.ebi.ac.uk/pdbe/entry/pdb/3cax/protein/1).
 
-![Macromolecules.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Macromolecules.png?raw=true)
+![Moleculedetails.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Moleculedetails.png?raw=true)
 
 5. Locate the middle section "Visualisation". Find the "Pfam" row and signal the domain "Hemerythrin HHE cation binding domain". Observe that in the visualizer your that domain is now highlighted in pink. Identify the regions of the domain (9-148).
 
