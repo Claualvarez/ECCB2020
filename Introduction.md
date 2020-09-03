@@ -30,7 +30,7 @@ Goal: Search for structural data in PDB and explore the available information fo
 
 ![pfam.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/pfam.png?raw=true)
 
-6. Find the "Sec. str" section. The alpha helices are signalized as green bars, whereas the beta strand elements, with blue arrows along the sequence.
+6. Click on the button labeled as "Expanded" to see the amino acid sequence ("Compact" is the default view). Find the "Sec. str" section. The alpha helices are signalized as green bars, whereas the beta strand elements, with blue arrows along the sequence. 
 7. Let´s find if our protein has assigned a protein domain in CATH or SCOP databases. Go to the main page of [3cax](https://www.ebi.ac.uk/pdbe/entry/pdb/3cax). upper-right box "Quick links", find the section "Structure analysis" and click on it. 
 
 ![Structureanalysis.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Structureanalysis.png?raw=true)
