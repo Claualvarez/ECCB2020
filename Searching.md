@@ -47,7 +47,7 @@ _____
      - PDB ID
    - Download as:
      - CSV
-   Save the csv file in your working_directoy (we will use it later).
+   Save the csv file in your working_directory (we will use it later).
    
    ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/PDBe_hemerythrin_download.png)
    
@@ -65,7 +65,7 @@ _____
 _____
 
 ## Exercise 2: searching by  sequence similarity
-**Goal:** the aim of this exercise is to show you how to possible homologs in the PDB using sequence similarity.
+**Goal:** the aim of this exercise is to show you how to find possible homologs in the PDB using sequence similarity.
  
 **1. Download or copy the sequence of [Bacteriohemerythrin](https://www.uniprot.org/uniprot/Q60AX2.fasta) from _Methylococcus capsulatus_.**
 
