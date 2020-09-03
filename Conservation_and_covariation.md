@@ -4,6 +4,9 @@
 We want to calculate a Multiple Sequence Alignment. On the menu, locate the [Multiple 3D Alignment link](http://strcomp.protein.osaka-u.ac.jp/matras/matras_multi.html), and click to go to the algorithm page. 
   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/MATRAS_homepage.png)
 
+**2. Use**
+  ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/MATRAS_submission.png)
+
 **2. Mafft** 
 https://mafft.cbrc.jp/alignment/server/add.html
 - Phylogenetic inference 
