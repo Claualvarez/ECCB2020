@@ -15,7 +15,7 @@ The following table contains links to the main macromolecular structure resource
 | [ECOD](http://prodata.swmed.edu/ecod/) | Evolutionary Classification of Protein Domains           |
 _____
 ## Exercise 1: searching by annotation (information-driven search approach) 
-**Goal:** The goal of this exercise is to learn how to obtain a list of pdb entries 
+**Goal:** The goal of this exercise is to learn how to obtain a list of pdb entries of proteins that have a homologous domain.
 
 **1. Go to [PDBe](https://www.ebi.ac.uk/pdbe/) and type "hemerythrin" in the search bar.** \
    This will display a menu with automated suggestions for filters that can be applied to your search. \
@@ -65,6 +65,7 @@ _____
 _____
 
 ## Exercise 2: searching by  sequence similarity
+**Goal:** the aim of this exercise is to show you how to possible homologs in the PDB using sequence similarity.
  
 **1. Download or copy the sequence of [Bacteriohemerythrin](https://www.uniprot.org/uniprot/Q60AX2.fasta) from _Methylococcus capsulatus_.**
 
