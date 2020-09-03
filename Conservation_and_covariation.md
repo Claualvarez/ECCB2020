@@ -20,24 +20,18 @@ We want to calculate a Multiple Sequence Alignment. On the menu, locate the [Mul
 
 **3. Examine the results.**
 Matras outputs a structure-based multiple sequence alignment in a special file format. \
-We have transformed this multiple sequence alignment into a [fasta file format](https://github.com/Claualvarez/ECCB2020/blob/master/Files/hemerythrin_rep_seqs.matras.fa).
+We have transformed this multiple sequence alignment into a [fasta file format](https://github.com/Claualvarez/ECCB2020/blob/master/Files/hemerythrin_rep_seqs.matras.fa). 
+These proteins are very distantly related! Hemerytrins and hemerythrin-like domains form a large and diverse superfamily of folds. \
+Only a few amino acid positions are conserved.
 
   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/MATRAS_output_C.png)
   
 **4. Download and examine the *trimmed* [fasta file format](https://github.com/Claualvarez/ECCB2020/blob/master/Files/hemerythrin_rep_seqs.matras.trimmed.fa) of the multiple sequence alignment that we calculated using matras.**
 
-These proteins are very distantly related! Hemerytrins and hemerythrin-like domains form a large and diverse superfamily of folds. \
-Only a few amino acid positions are conserved.
-
-_____
-## Bonus 1: Conservation
-
-## Bonus 2: Covariation
-
-## Conservation and covariation
-- Multiple structure alignment
-- Multiple structure alignment + multiple sequence alignment  
-
+**What can we do with this structue-based multiple sequence alignment?**
+- Seed and refine a multiple sequence alignment using, for example, [mafft add](https://mafft.cbrc.jp/alignment/server/add.html)
+  - Use this refined MSA to calculate a phylogeny.
+- [Visualize the conservation of the amino acid residues](https://consurf.tau.ac.il/fgij/fg.htm?mol=/results/1599139293/4xpy_consurf1599139293_pipe_CBS.pdb). 
 _____
 ## Further reading
 > Kovacs NA, Penev PI, Venapally A, Petrov AS, Williams LD. Circular Permutation Obscures Universality of a Ribosomal Protein. J Mol Evol. 2018;86(8):581-592. doi:10.1007/s00239-018-9869-1
