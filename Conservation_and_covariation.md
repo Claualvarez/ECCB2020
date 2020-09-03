@@ -32,7 +32,8 @@ Only a few amino acid positions are conserved.
 - Search homologous sequences in [hhblits](https://toolkit.tuebingen.mpg.de/jobs/hemerythrin).
 - Seed and refine a multiple sequence alignment using, for example, [mafft add](https://mafft.cbrc.jp/alignment/server/add.html)
   - Use this refined MSA to calculate a phylogeny.
-- [Visualize the conservation of the amino acid residues using consurf](https://consurf.tau.ac.il/fgij/fg.htm?mol=/results/1599141144/4xpy_consurf1599141144_pipe_CBS.pdb). 
+  - [Visualize the conservation of the amino acid residues using consurf](https://consurf.tau.ac.il/fgij/fg.htm?mol=/results/1599141144/4xpy_consurf1599141144_pipe_CBS.pdb). 
+  - Locate coevolving positions using [gremlin](http://openseq.org/sub.php?id=1599139749&uid=1476234812).
 _____
 ## Further reading
 > Kovacs NA, Penev PI, Venapally A, Petrov AS, Williams LD. Circular Permutation Obscures Universality of a Ribosomal Protein. J Mol Evol. 2018;86(8):581-592. doi:10.1007/s00239-018-9869-1
