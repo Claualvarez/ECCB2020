@@ -24,7 +24,7 @@ _____
      This filter will allow you to retrieve all molecules annotated as "hemerytrin". \
      Two notes of caution, though. Not all homologs have the same molecular name, and not al molecules with the same name are homologs.
    - **Sequence family** \
-     This will filter entries by unique identifier within [Rfam](https://rfam.xfam.org/), [Pfam](https://pfam.xfam.org/) or [Interpro](https://www.ebi.ac.uk/interpro/) databases. Proteins classified within the same *family* in these databases are considered homologs.
+     This will filter entries by unique identifier within [Rfam](https://rfam.xfam.org/), [Pfam](https://pfam.xfam.org/) or [Interpro](https://www.ebi.ac.uk/interpro/). Proteins classified within the same *family* in these databases are considered homologs.
    - **Structure domain** \
      Here you will find entries with the same [CATH](https://www.cathdb.info/) *topology*, which includes non-homologous proteins.
 
