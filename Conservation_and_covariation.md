@@ -1,10 +1,13 @@
 ## Exercise 1: From structure to sequence
+**Goal:** In this exercise we will use the list of pdb entries that are classified as Hemerythrin according to Pfam (Pfam code: PF01814). \
+Specifically, we will use one pdb code per macromolecule. \
+> *We will exclude from this search all pdb extries related to the Iron-sulfur cluster repair protein YtfE (5fnn, 5fny, 5fnp).*
 
 **1. Go to the [MATRAS](http://strcomp.protein.osaka-u.ac.jp/matras/) web page.** \
 We want to calculate a Multiple Sequence Alignment. On the menu, locate the [Multiple 3D Alignment link](http://strcomp.protein.osaka-u.ac.jp/matras/matras_multi.html), and click to go to the algorithm page. 
   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/MATRAS_homepage.png)
 
-**2. Use**
+**2. Enter one representative pdb code per macromolecule.**
   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/MATRAS_submission.png)
 
 **2. Mafft** 
