@@ -20,7 +20,7 @@ Goal: Predict a protein structure by homology modeling methods, based on the seq
 ![swissmodel.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/uniprotsequencesp.png?raw=true)
 
 4. Add a title to your project, name it "Hemerythrin" and append your email (optional).
-5. Click on the left blue button "Search for templates". The templates search will use (BLAST)[https://blast.ncbi.nlm.nih.gov/Blast.cgi] and (HHblits)[.de/tools/hhblits]. Wait for some minutes.
+5. Click on the left blue button "Search for templates". The templates search will use (BLAST)[https://blast.ncbi.nlm.nih.gov/Blast.cgi] and (HHblits)[https://toolkit.tuebingen.mpg.de/tools/hhblits]. Wait for some minutes.
 
  ![waitswissmodel.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/waitswissmodel.png?raw=true)
 
@@ -28,7 +28,7 @@ Goal: Predict a protein structure by homology modeling methods, based on the seq
 
  ![templatesswissmodel.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/templatesswissmodel.png?raw=true)
 
-7. Click on the blue button "Build model" and then on the upper blue button "Build models"
+7. Click on the blue button "Build models"
 
  ![modeltemplateswissmodel.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/modeltemplateswissmodel.png?raw=true)
  
