@@ -16,11 +16,17 @@ We want to calculate a Multiple Sequence Alignment. On the menu, locate the [Mul
   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/MATRAS_homepage.png)
 
 **2. Enter one representative pdb code per macromolecule.**
+
   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/MATRAS_submission.png)
 
-**2. Mafft** 
-https://mafft.cbrc.jp/alignment/server/add.html
-- Phylogenetic inference 
+**3. Examine the results.**
+Matras outputs a structure-based multiple sequence alignment in a special file format. \
+We have transformed this multiple sequence alignment into a [fasta file format](https://github.com/Claualvarez/ECCB2020/blob/master/Files/hemerythrin_rep_seqs.matras.fa).
+
+  ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Matras_output.png)
+  
+**4. Download and examine the *trimmed* [fasta file format](https://github.com/Claualvarez/ECCB2020/blob/master/Files/hemerythrin_rep_seqs.matras.trimmed.fa) of the multiple sequence alignment that we calculated using matras.**
+
 
 _____
 ## Bonus 1: Conservation
