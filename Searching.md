@@ -15,6 +15,7 @@ The following table contains links to the main macromolecular structure resource
 | [ECOD](http://prodata.swmed.edu/ecod/) | Evolutionary Classification of Protein Domains           |
 _____
 ## Exercise 1: searching by annotation (information-driven search approach) 
+**Goal:** The goal of this exercise is to learn how to obtain a list of pdb entries 
 
 **1. Go to [PDBe](https://www.ebi.ac.uk/pdbe/) and type "hemerythrin" in the search bar.** \
    This will display a menu with automated suggestions for filters that can be applied to your search. \
