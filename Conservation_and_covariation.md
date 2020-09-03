@@ -1,6 +1,14 @@
 ## Exercise 1: From structure to sequence
 **Goal:** In this exercise we will use the list of pdb entries that are classified as Hemerythrin according to Pfam (Pfam code: PF01814). \
-Specifically, we will use one pdb code per macromolecule. \
+We will use one pdb code per macromolecule. \
+This is the list of pdb codes that we will use:
+- 4xpyA
+- 3v5xA
+- 6tyjA
+- 3agtA
+- 1a7dA
+- 3caxA
+
 > *We will exclude from this search all pdb extries related to the Iron-sulfur cluster repair protein YtfE (5fnn, 5fny, 5fnp).*
 
 **1. Go to the [MATRAS](http://strcomp.protein.osaka-u.ac.jp/matras/) web page.** \
