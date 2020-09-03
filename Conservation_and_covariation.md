@@ -27,6 +27,8 @@ We have transformed this multiple sequence alignment into a [fasta file format](
   
 **4. Download and examine the *trimmed* [fasta file format](https://github.com/Claualvarez/ECCB2020/blob/master/Files/hemerythrin_rep_seqs.matras.trimmed.fa) of the multiple sequence alignment that we calculated using matras.**
 
+These proteins are very distantly related! Hemerytrins and hemerythrin-like domains form a large and diverse superfamily of folds. \
+Only a few amino acid positions are conserved.
 
 _____
 ## Bonus 1: Conservation
