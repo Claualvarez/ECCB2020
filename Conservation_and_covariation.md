@@ -29,6 +29,7 @@ Only a few amino acid positions are conserved.
 **4. Download and examine the *trimmed* [fasta file format](https://github.com/Claualvarez/ECCB2020/blob/master/Files/hemerythrin_rep_seqs.matras.trimmed.fa) of the multiple sequence alignment that we calculated using matras.**
 
 **What can we do with this structue-based multiple sequence alignment?**
+- Search homologous sequences in [hhblits](https://toolkit.tuebingen.mpg.de/jobs/hemerythrin).
 - Seed and refine a multiple sequence alignment using, for example, [mafft add](https://mafft.cbrc.jp/alignment/server/add.html)
   - Use this refined MSA to calculate a phylogeny.
 - [Visualize the conservation of the amino acid residues](https://consurf.tau.ac.il/fgij/fg.htm?mol=/results/1599139293/4xpy_consurf1599139293_pipe_CBS.pdb). 
