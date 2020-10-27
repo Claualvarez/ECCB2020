@@ -2,7 +2,7 @@
 
 [Exercise 1: searching by annotation (information-driven search approach)](https://github.com/Claualvarez/ECCB2020/blob/master/Searching.md#exercise-1-searching-by-annotation-information-driven-search-approach) \
 [Exercise 2: searching by sequence similarity](https://github.com/Claualvarez/ECCB2020/blob/master/Searching.md#exercise-2-searching-by--sequence-similarity) \
-Exercise 3
+Exercise 3: searching by structure similarity
 _____
 There are two approaches to retrieve protein structural data: by annotation; and by similarity.  
 The choice of strategy will depend on the type of information you have at the beginning of 
