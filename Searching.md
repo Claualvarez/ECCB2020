@@ -112,8 +112,14 @@ _____
    The logo plot will show the most conserved positions in the alignment.
 
 
-
 **We will analize some of these structures in the next sections.**
+
+______
+
+> Bonus: use COFACTOR to search by structure similarity
+> [This](https://zhanglab.ccmb.med.umich.edu/COFACTOR2/output/MCF7128/) is an example of a COFACTOR search 
+> Remember that *Structural analogs do exist!* 
+_____
 
 ## Quick links
 Previous section: [Introduction to web tools for protein structure classification](https://github.com/Claualvarez/ECCB2020/blob/master/Introduction.md) \
