@@ -1,5 +1,10 @@
 ## Overview of pairwise structure superimposition tools:
 
+[Exercise 1: 4xpx vs. 2p0n](https://github.com/Claualvarez/ECCB2020/blob/master/Superimposition.md#exercise-1-4xpx-vs-2p0n) \
+[Exercise 2: 4xpx vs. 5fnn](https://github.com/Claualvarez/ECCB2020/blob/master/Superimposition.md#exercise-2-4xpx-vs-5fnn) \
+[Exercise 3: Using a binding-site to superimpose proteins](https://github.com/Claualvarez/ECCB2020/blob/master/Superimposition.md#exercise-3-bonus-using-a-binding-site-to-superimpose-proteins)
+_____
+
 Wikipedia has a list of [structural alignment programs](https://en.wikipedia.org/wiki/Structural_alignment_software). \
 In this tutorial we will use only a few of them.
 
@@ -90,7 +95,7 @@ Locate the alignment summary.
     
 **Are these superimpositions substantially different? Why? And how do you decide which one to use?**
 
-## Exercise 3 (Bonus): Using a binding-site to superimpose proteins
+## Exercise 3: Using a binding-site to superimpose proteins
 
 Hemerythrins have a conserved non-heme diiron-binding site. Most of the residues that participate in the coordination of these two iron ions are highly conserved. Let's see if we can use this information to produce a biologically relevant structure superimposition.
 
