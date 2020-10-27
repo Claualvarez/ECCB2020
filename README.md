@@ -13,7 +13,6 @@ This workshop is intended for a beginner level audience. No previous experience 
 |  | [Overview of pairwise structure superimposition tools](https://github.com/Claualvarez/ECCB2020/blob/master/Superimposition.md) |
 |  | [Correspondences between protein sequence and structure](https://github.com/Claualvarez/ECCB2020/blob/master/Sequence-structure.md) |
 |  | [Conservation and covariation](https://github.com/Claualvarez/ECCB2020/blob/master/Conservation_and_covariation.md) |
-|  | Wrap-up and feedback | 
 
  
 ### Learning outcomes
