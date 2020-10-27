@@ -2,7 +2,7 @@
 _____
 ## Outline
 [Exercise 1: Template-based structure prediction](https://github.com/Claualvarez/ECCB2020/blob/master/Sequence-structure.md#exercise-1-template-based-structure-prediction) \
-[Exercise 2: Intrinsically disordered regions prediction](https://github.com/Claualvarez/ECCB2020/blob/master/Sequence-structure.md#exercise-2-intrinsically-disordered-regions-prediction) \
+[Exercise 2: Intrinsically disordered regions prediction](https://github.com/Claualvarez/ECCB2020/blob/master/Sequence-structure.md#exercise-2-intrinsically-disordered-regions-prediction) 
 
 In the 1960s, Christian Anfinsen postulated that the unique three-dimensional structure of a protein is determined by its amino acid sequence (sequence–structure–function paradigm). However, there are some exceptions, intrinsically disordered proteins and regions does not conform to this postulate. Disordered regions contribute to protein function and do not fold into a defined tertiary structure.
 
