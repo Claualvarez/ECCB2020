@@ -15,16 +15,16 @@ _______
 
 Goal: Predict a protein structure by homology modeling methods, based on the sequence similarity to another protein whose three-dimensional structure is determined.
 
-1. Go to the (SWISS-MODEL)[https://swissmodel.expasy.org/interactive] site. 
-2. Access to the (UniProt site)[https://www.uniprot.org/] and search the code ("Q0PC81")]. This is the protein you will model, the hemerythrin of Campylobacter jejuni.
-3. Go back to the (SWISS-MODEL)[https://swissmodel.expasy.org/interactive] site and paste the code "Q0PC81" (without quotation marks) in the "Target Sequence(s)" space.
+1. Go to the [SWISS-MODEL](https://swissmodel.expasy.org/interactive) site. 
+2. Access to the [UniProt site](https://www.uniprot.org/) and search the code ``Q0PC81``. This is the protein you will model, the hemerythrin of Campylobacter jejuni.
+3. Go back to the [SWISS-MODEL](https://swissmodel.expasy.org/interactive) site and paste the code "Q0PC81" (without quotation marks) in the "Target Sequence(s)" space.
 
 ![swissmodel.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/swissmodel.png?raw=true)
 
 ![swissmodel.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/uniprotsequencesp.png?raw=true)
 
 4. Add a title to your project, name it "Hemerythrin" and append your email (optional).
-5. Click on the left blue button "Search for templates". The templates search will use (BLAST)[https://blast.ncbi.nlm.nih.gov/Blast.cgi] and (HHblits)[https://toolkit.tuebingen.mpg.de/tools/hhblits]. Wait for some minutes.
+5. Click on the left blue button "Search for templates". The templates search will use [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi) and [HHblits](https://toolkit.tuebingen.mpg.de/tools/hhblits). Wait for some minutes.
 
  ![waitswissmodel.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/waitswissmodel.png?raw=true)
 
@@ -39,7 +39,7 @@ Goal: Predict a protein structure by homology modeling methods, based on the seq
  8. Your model is done!. If you want to download your results, press the button at the left of the "x". Model coordinates will be available in two different formats: DeepView project files and PDB format. 
 
 
-Note: We recommend you to read the help section of (SWISS-MODEL)[https://swissmodel.expasy.org/docs/help#new_project] to obtain detailed information.
+Note: We recommend you to read the help section of [SWISS-MODEL](https://swissmodel.expasy.org/docs/help#new_project) to obtain detailed information.
 
 
 _______
