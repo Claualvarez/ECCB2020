@@ -56,8 +56,9 @@ Is time to download the atomic coordinate file of our protein of interest
 2. In the upper-right box "Quick links", find the section "Downloads". Click on the "PDB file" blue link.
 3. Direct to your Download section and open the file "pdb3cax.ent" with the editor of your computer.
 
-
-
+______
+## Quick links
+Next on the scedule: [Searching for homologous protein structures](https://github.com/Claualvarez/ECCB2020/blob/master/Searching.md)
 
 _______
 ## Further reading
