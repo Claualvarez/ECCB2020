@@ -2,11 +2,16 @@
 **Goal:** In this exercise we will use the list of pdb entries that are classified as Hemerythrin according to Pfam (Pfam code: PF01814). \
 We will use one pdb code per macromolecule. \
 This is the **[list](https://www.ebi.ac.uk/pdbe/entry/search/index/?searchParams=%7B%22q_all_sequence_family%22:%5B%7B%22value%22:%22PF01814%20:%20Hemerythrin%22,%22condition1%22:%22AND%22,%22condition2%22:%22Contains%22%7D%5D,%22resultState%22:%7B%22tabIndex%22:1,%22paginationIndex%22:1,%22perPage%22:%2210%22%7D%7D)** of pdb codes that we will use:
-- 4xpyA
-- 3v5xA
-- 6tyjA
-- 3agtA
-- 1a7dA
+``3AGTB \
+2HMQA \
+4XPXA \
+2MHRA \
+6TYJA \
+2P0NB \
+3CAXA \
+3U9JB \
+5FNPA \
+4XWJA``
 
 > *We will exclude from this search all pdb extries related to the Iron-sulfur cluster repair protein YtfE (5fnn, 5fny, 5fnp) and pdb entries related to the Uncharacterized protein PF0695 (3cax). These proteins are structurally different. If we want to include them in a multiple structure alignment, further refinement steps are required.*
 
@@ -26,9 +31,11 @@ Only a few amino acid positions are conserved.
 
   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/MATRAS_output_C.png)
   
-**4. Download and examine the *trimmed* [fasta file format](https://github.com/Claualvarez/ECCB2020/blob/master/Files/hemerythrin_rep_seqs.matras.trimmed.fa) of the multiple sequence alignment that we calculated using matras.**
+**4. Download and examine the [fasta file format](https://github.com/Claualvarez/ECCB2020/blob/master/Files/hemerythrin_rep_seqs.matras.trimmed.fa) of the multiple sequence alignment that we calculated using matras.**
 
 **What can we do with this structue-based multiple sequence alignment?**
+
+
 - Search homologous sequences in [hhblits](https://toolkit.tuebingen.mpg.de/jobs/hemerythrin).
 - Seed and refine a multiple sequence alignment using, for example, [mafft add](https://mafft.cbrc.jp/alignment/server/add.html)
   - Use this refined MSA to calculate a phylogeny.
