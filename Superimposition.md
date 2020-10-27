@@ -1,9 +1,10 @@
-## Overview of pairwise structure superimposition tools:
+# Overview of pairwise structure superimposition tools
+_____
+## Outline
 
 [Exercise 1: 4xpx vs. 2p0n](https://github.com/Claualvarez/ECCB2020/blob/master/Superimposition.md#exercise-1-4xpx-vs-2p0n) \
 [Exercise 2: 4xpx vs. 5fnn](https://github.com/Claualvarez/ECCB2020/blob/master/Superimposition.md#exercise-2-4xpx-vs-5fnn) \
 [Exercise 3: Using a binding-site to superimpose proteins](https://github.com/Claualvarez/ECCB2020/blob/master/Superimposition.md#exercise-3-using-a-binding-site-to-superimpose-proteins)
-_____
 
 Wikipedia has a list of [structural alignment programs](https://en.wikipedia.org/wiki/Structural_alignment_software). \
 In this tutorial we will use only a few of them.
@@ -118,7 +119,7 @@ Hemerythrins have a conserved non-heme diiron-binding site. Most of the residues
  
 ______
 ## Quick links
-Previous exercise: [Searching for homologous protein structures](https://github.com/Claualvarez/ECCB2020/blob/master/Searching.md) \
+Previous section: [Searching for homologous protein structures](https://github.com/Claualvarez/ECCB2020/blob/master/Searching.md) \
 Next on the schedule: [Overview of pairwise structure superimposition tools](https://github.com/Claualvarez/ECCB2020/blob/master/Superimposition.md) \
 [Workshop main page](https://github.com/Claualvarez/structural-bioinformatics)
 _______
