@@ -39,19 +39,16 @@ Only a few amino acid positions are conserved.
 2. Use a PDB identifier to visualize conserved and variable sites. \
   We selected the ``2hmq`` structure. 
   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/consurf_fasta_name.png)
-3. Upload the MSA that was computed using MATAS and indicate the name of the sequence that corresponds to your structure of interest. In this case it is ``2hmqA``.
+3. Upload the MSA that was computed using MATRAS and indicate the name of the sequence that corresponds to your structure of interest. In this case it is ``2hmqA``.
 4. You cas use the pre-calculated ML tree to run consurf or let the program calculate a dirrerent tree.
 5. Run your analysis
   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/consrurf_final.png)
 
 ## Exercise 4: Wrapping up
+
 1. Compute a ML phylogeny using the MPI Bioinformatics Toolkit 
-1.1 Go to: (https://toolkit.tuebingen.mpg.de/tools/phyml)
-   > Use the sequences that you are visualizing in the AlignmentViewer (Exercise 2, section 4.3) for the ML tree. \
-   > Copy the input sequences from the input tab. \
-   > The programs in the MPI Bioinformatics toolkit are organized on different tabs on the top of the page. \
-   > Locate the Classification tab and setect the PhyML program. \
-   > Paste your sequences and submit jour job.
+1.1. Go to: https://toolkit.tuebingen.mpg.de/tools/phyml
+1.2 Upload the MSA that was computed using MATRAS and submit your job.
 
 _____
 ## Further reading
