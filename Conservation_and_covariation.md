@@ -34,7 +34,7 @@ Only a few amino acid positions are conserved.
 
 **3. Examine the [results](https://toolkit.tuebingen.mpg.de/jobs/hemerythrins_matras)**
 
-## Exercise 3: Identify conserved sites
+## Exercise 3: Identify conserved sites with ConSurf
 1. Go to the ConSurf web server
 2. Use a PDB identifier to visualize conserved and variable sites. \
   We selected the ``2hmq`` structure. 
@@ -44,11 +44,15 @@ Only a few amino acid positions are conserved.
 5. Run your analysis
   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/consrurf_final.png)
 
-- Search homologous sequences in [hhblits](https://toolkit.tuebingen.mpg.de/jobs/hemerythrin).
-- Seed and refine a multiple sequence alignment using, for example, [mafft add](https://mafft.cbrc.jp/alignment/server/add.html)
-  - Use this refined MSA to calculate a phylogeny.
-  - [Visualize the conservation of the amino acid residues using consurf](https://consurf.tau.ac.il/fgij/fg.htm?mol=/results/1599141144/4xpy_consurf1599141144_pipe_CBS.pdb). 
-  - Locate coevolving positions using [gremlin](http://openseq.org/sub.php?id=1599139749&uid=1476234812).
+## Exercise 4: Wrapping up
+1. Compute a ML phylogeny using the MPI Bioinformatics Toolkit 
+1.1 Go to: (https://toolkit.tuebingen.mpg.de/tools/phyml)
+   > Use the sequences that you are visualizing in the AlignmentViewer (Exercise 2, section 4.3) for the ML tree. \
+   > Copy the input sequences from the input tab. \
+   > The programs in the MPI Bioinformatics toolkit are organized on different tabs on the top of the page. \
+   > Locate the Classification tab and setect the PhyML program. \
+   > Paste your sequences and submit jour job.
+
 _____
 ## Further reading
 > Kovacs NA, Penev PI, Venapally A, Petrov AS, Williams LD. Circular Permutation Obscures Universality of a Ribosomal Protein. J Mol Evol. 2018;86(8):581-592. doi:10.1007/s00239-018-9869-1
