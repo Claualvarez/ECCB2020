@@ -102,7 +102,7 @@ _____
 **4. Use the MPI Bioinformatics Toolkit for a quick analysis of the results of a sequence similarity search.** \
   **4.1 Select the best 10 hits, make sure to select unique hits (hits with different identifiers).**
   
-  ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/HHpred_fwd_selected.png)
+  ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/HHpred_select.png)
   
   **4.2 Locate the ``Forward`` button at the top of the HHpred results page and click on it.** \
   **4.3 Forward selected to AlignmentViewer (click on View Alignment).**
