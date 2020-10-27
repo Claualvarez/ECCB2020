@@ -16,16 +16,22 @@ We want to calculate a Multiple Sequence Alignment. On the menu, locate the [Mul
 
 **3. Examine the results.**
 Matras outputs a structure-based multiple sequence alignment in a special file format. To examine the MATAS output click [here](https://github.com/Claualvarez/ECCB2020/blob/master/Files/MATRAS_default_output.txt) \
-We have transformed this multiple sequence alignment into a [fasta file format](). 
+We have transformed this multiple sequence alignment into a [fasta file format](https://github.com/Claualvarez/ECCB2020/blob/master/Files/MATRAS_output_example.fa). 
 These proteins are very distantly related! Hemerytrins and hemerythrin-like domains form a large and diverse superfamily of folds. \
 Only a few amino acid positions are conserved.
 
-  ![]()
+ 
   
-**4. Download and examine the [fasta file format](https://github.com/Claualvarez/ECCB2020/blob/master/Files/hemerythrin_rep_seqs.matras.trimmed.fa) of the multiple sequence alignment that we calculated using matras.**
+**4. Download and examine the [fasta file format](https://github.com/Claualvarez/ECCB2020/blob/master/Files/MATRAS_output_example.fa) of the multiple sequence alignment that we calculated using matras.**
 
 **What can we do with this structue-based multiple sequence alignment?**
 
+## Exercise 2: Use the structure-based MSA to calculate a phylogeny.
+**1. Go to the MPI Boioinformatics toolkit page, on the ``Classification`` tab select the program [PhyML](https://toolkit.tuebingen.mpg.de/tools/phyml).**
+
+**2. Paste or upload the structue-based multiple sequence alignment (in FASTA format) that we previously calculated with MATAS.**
+
+**3. Examine the [results](https://toolkit.tuebingen.mpg.de/jobs/hemerythrins_matras)**
 
 
 - Search homologous sequences in [hhblits](https://toolkit.tuebingen.mpg.de/jobs/hemerythrin).
