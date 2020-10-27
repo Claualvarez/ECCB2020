@@ -65,7 +65,8 @@ Goal: Predict disordered regions from a fasta sequence and get familiarized with
 ______
 ## Quick links
 Previous section: [Overview of pairwise structure superimposition tools](https://github.com/Claualvarez/ECCB2020/blob/master/Superimposition.md) \
-Next on the schedule: [Conservation and covariation](https://github.com/Claualvarez/ECCB2020/blob/master/Conservation_and_covariation.md)
+Next on the schedule: [Conservation and covariation](https://github.com/Claualvarez/ECCB2020/blob/master/Conservation_and_covariation.md) \
+[Workshop main page](https://github.com/Claualvarez/structural-bioinformatics)
 
 _______
 ## Further reading
