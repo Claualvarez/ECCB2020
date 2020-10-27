@@ -72,7 +72,7 @@ For the second exercise we will use a different pair of proteins. These two prot
 
   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/CLICK_homepage.png)
 
-**5. Upload the files or enter the pdb codes of the proteins that we want to compare (4xpx and 5fnn).**
+**5. Enter the pdb codes of the proteins that we want to compare (4xpx and 5fnn).**
 
 **6. Run the alignment or click [here](http://cospi.iiserpune.ac.in/click/output/01092020233149/01092020233149.html) to open the pre-computed superimposition.**
 
