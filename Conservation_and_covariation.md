@@ -46,9 +46,12 @@ Only a few amino acid positions are conserved.
 
 ## Exercise 4: Wrapping up
 
-1. Compute a ML phylogeny using the MPI Bioinformatics Toolkit 
-1.1. Go to: https://toolkit.tuebingen.mpg.de/tools/phyml
-1.2 Upload the MSA that was computed using MATRAS and submit your job.
+1. Compute a ML phylogeny using the MPI Bioinformatics Toolkit \
+1.1. Go to: https://toolkit.tuebingen.mpg.de/tools/phyml \
+1.2 Upload the MSA that was computed using MATRAS and submit your job. \
+1.3 Examine the [reults](https://toolkit.tuebingen.mpg.de/jobs/hemerythrins_matras)
+
+![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/PhyML_results.png)
 
 _____
 ## Further reading
