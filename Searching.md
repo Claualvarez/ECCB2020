@@ -1,5 +1,8 @@
 # Searching for homologous protein structures
 
+_____
+# Outline
+
 [Exercise 1: searching by annotation (information-driven search approach)](https://github.com/Claualvarez/ECCB2020/blob/master/Searching.md#exercise-1-searching-by-annotation-information-driven-search-approach) \
 [Exercise 2: searching by sequence similarity](https://github.com/Claualvarez/ECCB2020/blob/master/Searching.md#exercise-2-searching-by--sequence-similarity) \
 Exercise 3: searching by structure similarity
@@ -95,14 +98,33 @@ _____
 
   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/HHpred_hits.png)
      
- Compare the PDB codes of the hits list to the results obtained in the previous exercise (Information-driven search).\
- Are there results with a probability > 60% that were not retrieved using the information-driven search approach (Exercise 1)?
- How many new PDB codes did we obtain during this similarity search approach?
+   Compare the PDB codes of the hits list to the results obtained in the previous exercise (Information-driven search).\
+   Are there results with a probability > 60% that were not retrieved using the information-driven search approach (Exercise 1)?
+   How many new PDB codes did we obtain during this similarity search approach?
 
-**We will analize some of these results in the next sections.**
+**4. Use the MPI Bioinformatics Toolkit for a quick analysis of the results of a sequence similarity search.**
+  4.1. Select the best 10 hits, make sure to select unique hits (hits with different identifiers).
+  ! [](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/HHpred_select.png)
+  4.2. Locate the ``Forward`` button at the top of the HHpred results page and click on it.
+  4.3. Forward selected to AlignmentViewer (click on View Alignment).
+  ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/HHpred_fwd_selected.png)
+  
+  ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/MPI_fwd_results.png)
+  
+   The logo plot will show the most conserved positions in the alignment.
+
+   > Bonus: how to compute a ML phylogeny using the MPI Bioinformatics Toolkit \
+   > Use the sequences that you are visualizing in the AlignmentViewer (Exercise 2, section 4.3) for the ML tree. \
+   > Copy the input sequences from the input tab. \
+   > The programs in the MPI Bioinformatics toolkit are organized on different tabs on the top of the page. \
+   > Locate the Classification tab and setect the PhyML program. \
+   > Paste your sequences and submit jour job.
+
+
+**We will analize some of these structures in the next sections.**
 
 ## Quick links
-Previous exercise: [Introduction to web tools for protein structure classification](https://github.com/Claualvarez/ECCB2020/blob/master/Introduction.md) \
+Previous section: [Introduction to web tools for protein structure classification](https://github.com/Claualvarez/ECCB2020/blob/master/Introduction.md) \
 Next on the schedule: [Overview of pairwise structure superimposition tools](https://github.com/Claualvarez/ECCB2020/blob/master/Superimposition.md) \
 [Workshop main page](https://github.com/Claualvarez/structural-bioinformatics#schedule)
 
