@@ -80,11 +80,10 @@ _____
 
   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/HHpred_sequence.png)
   
-  - **Select PDB_mmCIF70_23_Jul on the *Select structural/domain databases* menu.**
+   **2.1 Select PDB_mmCIF70_23_Jul on the *Select structural/domain databases* menu. Click the *Submit* button.**
     
   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/HHpred_select_options.png)
     
-  - **Click the *Submit* button.**
     
   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/HHpred_submit.png)
     
