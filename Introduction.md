@@ -39,7 +39,7 @@ Goal: Search for structural data in PDB and explore the available information fo
 
 ![Structureanalysis.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Structureanalysis.png?raw=true)
 
-8. In this section, you will find the (CATH)[http://www.cathdb.info/version/latest/superfamily/1.20.120.520] link and other relevant biological information, as the PFAM domains and the prefered multimeric state by chain. Our protein is an homo dimer.
+8. In this section, you will find the [CATH](http://www.cathdb.info/version/latest/superfamily/1.20.120.520) link and other relevant biological information, as the PFAM domains and the prefered multimeric state by chain. Our protein is an homo dimer.
  
 ![cathpfaminterproassembly.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/cathpfaminterproassembly.png?raw=true)
  
