@@ -119,6 +119,7 @@ ______
 > Bonus: use COFACTOR to search by structure similarity \
 > [This](https://zhanglab.ccmb.med.umich.edu/COFACTOR2/output/MCF7128/) is an example of a COFACTOR search \
 > Remember that *Structural analogs do exist!*  \
+> How do you differentiale between structural analogs and homologs?
 
 _____
 
