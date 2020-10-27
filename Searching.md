@@ -37,7 +37,7 @@ _____
 **2. Select the results for [Sequence family : PF01814 : Hemerythrin](https://www.ebi.ac.uk/pdbe/entry/search/index/?searchParams=%7B%22q_all_sequence_family%22:%5B%7B%22value%22:%22PF01814%20:%20Hemerythrin%22,%22condition1%22:%22AND%22,%22condition2%22:%22Contains%22%7D%5D,%22resultState%22:%7B%22tabIndex%22:0,%22paginationIndex%22:1,%22perPage%22:%2210%22,%22sortBy%22:%22Sort%20by%22%7D%7D).** \
    This page will display all entries associated with the Hemerythrin family in Pfam. \
    Note that the same UniProt/PDBe-KB identifier may appear in different PDB entries. \
-   For example: 2awc and 2awy have the same PDBe-KB identifier. \
+   For example: 2awc and 2awy have the same PDBe-KB identifier. 
 
    ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Hemerythrin_entries_per_prot.png)
 
