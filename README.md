@@ -1,4 +1,4 @@
-# ECCB2020 Tutorial
+
 ##  Introduction to structural bioinformatics for evolutionary analysis
 Three-dimensional structure analyses can provide a biophysical understanding of how proteins work and evolve. Most evolutionary studies are based solely on sequence data. However, point mutations and sequence rearrangements have implications for protein structure. This tutorial will familiarize participants with straightforward bioinformatics protocols for combining evolutionary information and biophysical understanding of proteins. Furthermore, many proteins contain unstructured regions in their native state. We will provide cutting edge bioinformatics algorithms to analyze both folded protein domains and intrinsically disordered proteins and regions. We will focus on protein structure classification, structure comparison methods and evolutionary analyses.  
 
@@ -8,12 +8,12 @@ This workshop is intended for a beginner level audience. No previous experience 
 
 | Time          | Activity |
 | :-----------: | :-----|
-| 17.00 – 17.30 | [Introduction to web tools for protein structure classification](https://github.com/Claualvarez/ECCB2020/blob/master/Introduction.md) |
-| 17:30 – 18:10 | [Searching for homologous protein structures](https://github.com/Claualvarez/ECCB2020/blob/master/Searching.md) |
-| 18:10 – 18:50 | [Overview of pairwise structure superimposition tools](https://github.com/Claualvarez/ECCB2020/blob/master/Superimposition.md) |
-| 18:50 – 19:35 | [Correspondences between protein sequence and structure](https://github.com/Claualvarez/ECCB2020/blob/master/Sequence-structure.md) |
-| 19:35 – 19.55 | [Conservation and covariation](https://github.com/Claualvarez/ECCB2020/blob/master/Conservation_and_covariation.md) |
-| 19:55 – 20.00 | Wrap-up and feedback | 
+|  | [Introduction to web tools for protein structure classification](https://github.com/Claualvarez/ECCB2020/blob/master/Introduction.md) |
+|  | [Searching for homologous protein structures](https://github.com/Claualvarez/ECCB2020/blob/master/Searching.md) |
+|  | [Overview of pairwise structure superimposition tools](https://github.com/Claualvarez/ECCB2020/blob/master/Superimposition.md) |
+|  | [Correspondences between protein sequence and structure](https://github.com/Claualvarez/ECCB2020/blob/master/Sequence-structure.md) |
+|  | [Conservation and covariation](https://github.com/Claualvarez/ECCB2020/blob/master/Conservation_and_covariation.md) |
+|  | Wrap-up and feedback | 
 
  
 ### Learning outcomes
