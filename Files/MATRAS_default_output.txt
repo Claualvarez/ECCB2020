@@ -1,0 +1,106 @@
+[pid]  6484
+[Npro] 9
+[pro1] 3agtB         ["" - ""]
+[pro2] 2hmqA         ["" - ""]
+[pro3] 4xpxA         ["" - ""]
+[pro4] 2mhrA         ["" - ""]
+[pro5] 6tyjA         ["" - ""]
+[pro6] 2p0nB         ["" - ""]
+[pro7] 3caxA         ["" - ""]
+[pro8] 3u9jB         ["" - ""]
+[pro9] 4xwjA         ["" - ""]
+[MULTIPLE ALIGNMENT]
+[AVE_SECSTR]    cccccccsccccghgghhccttsccgcctchhhhhhHHHHHHHHHHHHHhhhhhhhcssc
+2hmqA           GFPIP-DPYCWDI-SF--RT--F------YTIVDDEHKTLFNGILLLSQAD---------:39
+2mhrA           GWEIP-EPYVWDE-SF--RV--F------YEQLDEEHKKIFKGIFDCIRDN---------:39
+3agtB           -----DVLVKWSE-DL--AN---------LPSIDTQHKRLVDYINDLYRAARR-R-----:40
+4xpxA           ------ALMTWTAAEF--GT--N------VGFADDQHKTIFDMVNKLHDTAAT-G-----:39
+2p0nB           -----------------------------AEPIEmLYACHGKVRRFCGQVAmLSDY----:38
+6tyjA           ----------------------M------VNAYEVLKEHHVVIKGLGRKISEA-PV----:26
+3u9jB           -----------------------FPE---EVDV--FTAPHWRmKQLVGLYCDKLSK----:31
+4xwjA           ------TSMLNQLDNLTERVRGS------NKLVDRWLHVRKHLLVAYYNLVGI-KPGKES:45
+3caxA           --------------------------LPEGHPLKTLYQENKEIMKDAEMLNLYAKT----:148
+                                                 .                          
+
+[AVE_SECSTR]    hhhhcchhshhhhhhhhhhhhHHHhhhHHHhHHHHHHHhhHHHhhhhttshhhctthhtt
+2hmqA           --------------------NADH-LNELRRCTGKHFLNEQQLMQA-SQ----YAG----:69
+2mhrA           --------------------SAPN-LATLVKVTTNHFTHEEAMMDA-AK----YSE----:69
+3agtB           ----------------DMDKAREV-FDALKNYAVEHFGYEERLFAD-YA----YPE----:74
+4xpxA           ----------------NRSEIGKQ-LDALIDYVVMHFKSEETEMQK-KG----YAD----:73
+2p0nB           IAEN----GCNQIVLQTIRQIAQYFNVAAPLHHEDEEENFFPLLLQ----------YAPQ:84
+6tyjA           N------------SEERHALFDEL-LIELDIHFRIEDDLYYPALSA--------------:59
+3u9jB           TNFS----N-NNDFRALLQSLYATFK-EFKmHEQIENEYIIGLLQQ----------RSQT:75
+4xwjA           Y------------MRLNEKALDDF-CQSLVDYLSAGHFSIYERILHKLEGNGQLAR----:88
+3caxA           LATTKDERMREEILG-VLEEIVSSLRMVGFTHYNREEMLIFPYIER------------RG:195
+                                            .                               
+
+[AVE_SECSTR]    hhhhhhhhhhhhhhHHhhhhthhhhhhhhhhhtcshhhhhhhhhhhhhhhhhhhhhHHHH
+2hmqA           YAEHKKAHDDFIHKLDTW---DG--------------------------------DVTYA:94
+2mhrA           VVPHKKMHKDFLEKIGGL---SA---------------------------PVDAKNVDYC:99
+3agtB           ATRHKEIHRRFVETVLKWEK-QLAA----------------------GDPEVVMTTLRGL:111
+4xpxA           FAAHKAEHDKLVGVCADLQK-KFHA----------------------GEAEVNQDTTRFV:110
+2p0nB           AQESVDELLRQHIGLHDNWA-AVSAE--FAKLE----ADNA---Y-VPDEEAFKRFVAGY:133
+6tyjA           ATKLIAVAHAEHRQVIDQLS-VLLRT-----PQ----S------E-PGYEDEWNSFKTVL:102
+3u9jB           IY---NVH--SDNKLSE-mL-SLFEK--GLKNVKNEYEQLN---YAKQLKERLEAFTRDF:123
+4xwjA           AAKIWPQLEANTQQIMDYYDSSLETAID---HD----N------Y-LEFQQVLSDIGESL:134
+3caxA           LTVIATVLWTKHDEIRAMIK-QLAEL--LRKRE----EMPWEEFV-EKFKAKAGEVAFAL:247
+                       .              .                                     
+
+[AVE_SECSTR]    HHHHHHHHhhhhhthhhhhhhhhhttcccschhhhhhhhhhhhhhhhchhhhhhhhhhhh
+2hmqA           KNWLVNHI-K--TIDFKYRGKI--------------------------------------:113
+2mhrA           KEWLVNHI-K--GTDFKYKGKL--------------------------------------:118
+3agtB           VDWLVNHI-M--KEDKKYEAYLRERGVS--------------------------------:136
+4xpxA           RDWLVNHI-P--KVDKLYGPCLSA------------------------------------:131
+2p0nB           DVHLAIEE----PLFDmGNTF--------IPKEKLTEIGEImAARRRK------------:169
+6tyjA           EAHADEEE---RDMIPAPPEV-------KITDAELEELGEKMAARMEQYRGSALYKLRTK:152
+3u9jB           LPHmKEEE--E-VFQPmLmEY--------FTYEELKDIKKKVIAQHCS------------:160
+4xwjA           EARFVLED----KLILLVLDA---------------------------------------:151
+3caxA           SDMVFRENN---IFYPTLKAL--------LSEGEWKAIKMQEDEIG--------------:282
+                   .. .                                                     
+
+[AVE_SECSTR]    chhhhhhtccsscccccccscttsccccgggsccccchhhhhhschhhhhhtttcccccc
+2hmqA           ------------------------------------------------------------:-
+2mhrA           ------------------------------------------------------------:-
+3agtB           ------------------------------------------------------------:-
+4xpxA           ------------------------------------------------------------:-
+2p0nB           ------------------------------------------------------------:-
+6tyjA           GRAALVRSL---------------------------------------------------:161
+3u9jB           ------------------------------------------------------------:-
+4xwjA           ------------------------------------------------------------:-
+3caxA           ---------YYKVKPPEWDPGEDVKPLHPWEINPELNVEQLLTLPKEVQQALRGQPLEFD:333
+                                                                            
+
+[AVE_SECSTR]    cccsscttceecssceechhhhhhhhhhssseeeeecttsbeeeeccsscsscccgggtt
+2hmqA           ------------------------------------------------------------:-
+2mhrA           ------------------------------------------------------------:-
+3agtB           ------------------------------------------------------------:-
+4xpxA           ------------------------------------------------------------:-
+2p0nB           ------------------------------------------------------------:-
+6tyjA           ------------------------------------------------------------:-
+3u9jB           ------------------------------------------------------------:-
+4xwjA           ------------------------------------------------------------:-
+3caxA           KTQLKREEDIDLGTGYLNIEELKAIFEALPVDVTFIDKDDRVRFFSPGERIFTRTPSVLG:393
+                                                                            
+
+[AVE_SECSTR]    cbtttsscggghhhhhhhhhhhhhtscsceeeeeeetteeeeeeeeeeecttsceeeeee
+2hmqA           ------------------------------------------------------------:-
+2mhrA           ------------------------------------------------------------:-
+3agtB           ------------------------------------------------------------:-
+4xpxA           ------------------------------------------------------------:-
+2p0nB           ------------------------------------------------------------:-
+6tyjA           ------------------------------------------------------------:-
+3u9jB           ------------------------------------------------------------:-
+4xwjA           ------------------------------------------------------------:-
+3caxA           RPVQLCHPPKSVYVVNKILKAFKEGRKKEATFWLRLREKYVYIKYVPLFNEKGEYIGTLE:453
+                                                                            
+
+[AVE_SECSTR]    eeeechhhhtccscccsccc
+2hmqA           --------------------:-
+2mhrA           --------------------:-
+3agtB           --------------------:-
+4xpxA           --------------------:-
+2p0nB           --------------------:-
+6tyjA           --------------------:-
+3u9jB           --------------------:-
+4xwjA           --------------------:-
+3caxA           MTMDIAPYKKIEGEKRLLDW:473
