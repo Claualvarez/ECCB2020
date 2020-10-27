@@ -111,12 +111,6 @@ _____
   
    The logo plot will show the most conserved positions in the alignment.
 
-   > Bonus: how to compute a ML phylogeny using the MPI Bioinformatics Toolkit \
-   > Use the sequences that you are visualizing in the AlignmentViewer (Exercise 2, section 4.3) for the ML tree. \
-   > Copy the input sequences from the input tab. \
-   > The programs in the MPI Bioinformatics toolkit are organized on different tabs on the top of the page. \
-   > Locate the Classification tab and setect the PhyML program. \
-   > Paste your sequences and submit jour job.
 
 
 **We will analize some of these structures in the next sections.**
