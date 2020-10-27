@@ -110,7 +110,7 @@ Hemerythrins have a conserved non-heme diiron-binding site. Most of the residues
   
   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/MetalS2_select_sites.png)
   
-**4. Inspect the [results](http://metalweb.cerm.unifi.it/tools/metals2_results/1598987841.32/)**
+**4. Inspect the [results](http://metalweb.cerm.unifi.it/tools/metals2_results/1603769701.1/)**
 
   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/MetalS2_scores.png)
   
