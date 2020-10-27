@@ -33,6 +33,15 @@ Only a few amino acid positions are conserved.
 
 **3. Examine the [results](https://toolkit.tuebingen.mpg.de/jobs/hemerythrins_matras)**
 
+## Exercise 3: Identify conserved sites
+1. Go to the ConSurf web server
+2. Use a PDB identifier to visualize conserved and variable sites. \
+  We selected the ``2hmq`` structure. 
+  ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/consurf_fasta_name.png)
+3. Upload the MSA that was computed using MATAS and indicate the name of the sequence that corresponds to your structure of interest. In this case it is ``2hmqA``.
+4. You cas use the pre-calculated ML tree to run consurf or let the program calculate a dirrerent tree.
+5. Run your analysis
+  ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/consrurf_final.png)
 
 - Search homologous sequences in [hhblits](https://toolkit.tuebingen.mpg.de/jobs/hemerythrin).
 - Seed and refine a multiple sequence alignment using, for example, [mafft add](https://mafft.cbrc.jp/alignment/server/add.html)
