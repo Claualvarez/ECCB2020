@@ -17,18 +17,18 @@ Goal: Predict a protein structure by homology modeling methods, based on the seq
 
 1. Go to the [SWISS-MODEL](https://swissmodel.expasy.org/interactive) site. 
 2. Access to the [UniProt site](https://www.uniprot.org/) and search the code ``Q0PC81``. This is the protein you will model, the hemerythrin of Campylobacter jejuni.
-3. Go back to the [SWISS-MODEL](https://swissmodel.expasy.org/interactive) site and paste the code "Q0PC81" (without quotation marks) in the "Target Sequence(s)" space.
+3. Go back to the [SWISS-MODEL](https://swissmodel.expasy.org/interactive) site and paste the code ``Q0PC81`` in the ``Target Sequence(s)`` space.
 
 ![swissmodel.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/swissmodel.png?raw=true)
 
 ![swissmodel.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/uniprotsequencesp.png?raw=true)
 
-4. Add a title to your project, name it "Hemerythrin" and append your email (optional).
-5. Click on the left blue button "Search for templates". The templates search will use [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi) and [HHblits](https://toolkit.tuebingen.mpg.de/tools/hhblits). Wait for some minutes.
+4. Add a title to your project, name it ``Hemerythrin`` and append your email (optional).
+5. Click on the left blue button ``Search for templates``. The templates search will use [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi) and [HHblits](https://toolkit.tuebingen.mpg.de/tools/hhblits). Wait for some minutes.
 
  ![waitswissmodel.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/waitswissmodel.png?raw=true)
 
-6. The results of the templates will be listed together with some relevant structural information. Select the code "4xpw.1.A". Click on the arrow at the the left of side and it will appear a description of the template of your selection.
+6. The results of the templates will be listed together with some relevant structural information. Select the code ``4xpw.1.A``. Click on the arrow at the the left of side and it will appear a description of the template of your selection.
 
  ![templatesswissmodel.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/templatesswissmodel.png?raw=true)
 
@@ -36,7 +36,7 @@ Goal: Predict a protein structure by homology modeling methods, based on the seq
 
  ![modeltemplateswissmodel.png](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/modeltemplateswissmodel.png?raw=true)
  
- 8. Your model is done!. If you want to download your results, press the button at the left of the "x". Model coordinates will be available in two different formats: DeepView project files and PDB format. 
+ 8. Your model is done!. If you want to download your results, press the button at the left of the ``x``. Model coordinates will be available in two different formats: DeepView project files and PDB format. 
 
 
 Note: We recommend you to read the help section of [SWISS-MODEL](https://swissmodel.expasy.org/docs/help#new_project) to obtain detailed information.
@@ -51,8 +51,8 @@ Goal: Predict disordered regions from a fasta sequence and get familiarized with
 2. In the main page, you will find the grey box "Structure analysis" in the lower right side. Click on [Molecule details](https://www.ebi.ac.uk/pdbe/entry/pdb/1zr9/protein/1). In the upper gray box, identify the term "UniProt:" and copy the code ``O00488``.
 3. Go to the [UniProt site](https://www.uniprot.org/) and search fot the UniProt code [O00488](https://www.uniprot.org/uniprot/O00488). Search for the [fasta sequence](https://www.uniprot.org/uniprot/O00488.fasta) and copy it in the text editor installed in your computer.
 4. Direct to the [IUPred2A](https://iupred2a.elte.hu/), an intrinsic disordered predictor.
-5. Paste your amino acid fast sequence in the central white box. Click on submit. Be sure that the option "IUPred2 long disorder (default)" is selected.
-6. Visualize your disorder prediction results. In the graph you can see the disorder prediction with the red line. All those residues in the positions that have values with a score >0.5, are considered as disordered. You can also download your results in "Text" or "JSON" formats in the "Download results" upper icon.
+5. Paste your amino acid fast sequence in the central white box. Click on submit. Be sure that the option ``IUPred2 long disorder (default)`` is selected.
+6. Visualize your disorder prediction results. In the graph you can see the disorder prediction with the red line. All those residues in the positions that have values with a score >0.5, are considered as disordered. You can also download your results in ``Text`` or ``JSON`` formats in the "Download results" upper icon.
  
  ![IUPredlong results](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/iupred_graphO00488results.png?raw=true)
 
