@@ -120,7 +120,7 @@ Hemerythrins have a conserved non-heme diiron-binding site. Most of the residues
 ______
 ## Quick links
 Previous section: [Searching for homologous protein structures](https://github.com/Claualvarez/ECCB2020/blob/master/Searching.md) \
-Next on the schedule: [Overview of pairwise structure superimposition tools](https://github.com/Claualvarez/ECCB2020/blob/master/Superimposition.md) \
+Next on the schedule: [Correspondences between protein sequence and structure](https://github.com/Claualvarez/ECCB2020/blob/master/Sequence-structure.md) \
 [Workshop main page](https://github.com/Claualvarez/structural-bioinformatics)
 _______
 ## Further reading
