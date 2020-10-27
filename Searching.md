@@ -116,9 +116,10 @@ _____
 
 ______
 
-> Bonus: use COFACTOR to search by structure similarity
-> [This](https://zhanglab.ccmb.med.umich.edu/COFACTOR2/output/MCF7128/) is an example of a COFACTOR search 
-> Remember that *Structural analogs do exist!* 
+> Bonus: use COFACTOR to search by structure similarity \
+> [This](https://zhanglab.ccmb.med.umich.edu/COFACTOR2/output/MCF7128/) is an example of a COFACTOR search \
+> Remember that *Structural analogs do exist!*  \
+
 _____
 
 ## Quick links
