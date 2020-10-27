@@ -56,8 +56,8 @@ Goal: Predict disordered regions from a fasta sequence and get familiarized with
  
  ![IUPredlong results](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/iupred_graphO00488results.png?raw=true)
 
-7. Search for your protein with their UniProt code "O00488" in the (DisProt database)[https://www.disprot.org/]. 
-8. Explore all the available experimental information and disorder biological information related with your (protein)[https://www.disprot.org/DP00549?release=current&show_ambiguous=true&show_obsolete=false].
+7. Search for your protein with their UniProt code ``O00488`` in the [DisProt database](https://www.disprot.org/). 
+8. Explore all the available experimental information and disorder biological information related with your [protein](https://www.disprot.org/DP00549?release=current&show_ambiguous=true&show_obsolete=false).
 
  ![DisProt_O00488](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/DisProt_O00488.png?raw=true)
  
