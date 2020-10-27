@@ -62,6 +62,11 @@ Goal: Predict disordered regions from a fasta sequence and get familiarized with
  ![DisProt_O00488](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/DisProt_O00488.png?raw=true)
  
 
+______
+## Quick links
+Previous section: [Overview of pairwise structure superimposition tools](https://github.com/Claualvarez/ECCB2020/blob/master/Superimposition.md) \
+Next on the schedule: [Conservation and covariation](https://github.com/Claualvarez/ECCB2020/blob/master/Conservation_and_covariation.md)
+
 _______
 ## Further reading
 >  Kuhlman B, Bradley P. Advances in protein structure prediction and design. Nature Reviews Molecular Cell Biology. 2019. 20:681–697.
