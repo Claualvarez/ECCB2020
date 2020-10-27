@@ -97,6 +97,9 @@ _____
 
 **We will analize some of these results in the next sections.**
 
+## Quick links
+Next on the schedule: [Searching for homologous protein structures](https://github.com/Claualvarez/ECCB2020/blob/master/Searching.md)
+
 ## Further reading
 > Fitch WM. Homology a personal view on some of the problems.  
 Trends Genet. 2000;16(5):227-231. doi:10.1016/s0168-9525(00)02005-9
