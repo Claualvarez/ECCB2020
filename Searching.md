@@ -103,7 +103,8 @@ _____
 
 ## Quick links
 Previous exercise: [Introduction to web tools for protein structure classification](https://github.com/Claualvarez/ECCB2020/blob/master/Introduction.md) \
-Next on the schedule: [Overview of pairwise structure superimposition tools](https://github.com/Claualvarez/ECCB2020/blob/master/Superimposition.md)
+Next on the schedule: [Overview of pairwise structure superimposition tools](https://github.com/Claualvarez/ECCB2020/blob/master/Superimposition.md) \
+[Workshop main page](https://github.com/Claualvarez/structural-bioinformatics#schedule)
 
 ## Further reading
 > Fitch WM. Homology a personal view on some of the problems.  
