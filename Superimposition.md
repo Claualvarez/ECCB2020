@@ -2,7 +2,7 @@
 
 [Exercise 1: 4xpx vs. 2p0n](https://github.com/Claualvarez/ECCB2020/blob/master/Superimposition.md#exercise-1-4xpx-vs-2p0n) \
 [Exercise 2: 4xpx vs. 5fnn](https://github.com/Claualvarez/ECCB2020/blob/master/Superimposition.md#exercise-2-4xpx-vs-5fnn) \
-[Exercise 3: Using a binding-site to superimpose proteins](https://github.com/Claualvarez/ECCB2020/blob/master/Superimposition.md#exercise-3-bonus-using-a-binding-site-to-superimpose-proteins)
+[Exercise 3: Using a binding-site to superimpose proteins](https://github.com/Claualvarez/ECCB2020/blob/master/Superimposition.md#exercise-3-using-a-binding-site-to-superimpose-proteins)
 _____
 
 Wikipedia has a list of [structural alignment programs](https://en.wikipedia.org/wiki/Structural_alignment_software). \
