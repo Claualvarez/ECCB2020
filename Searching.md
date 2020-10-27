@@ -107,7 +107,7 @@ _____
   **4.2 Locate the ``Forward`` button at the top of the HHpred results page and click on it.** \
   **4.3 Forward selected to AlignmentViewer (click on View Alignment).**
   
-  ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/MPI_fwd_results.png)
+  ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/HHpred_fwd_selected.png)
   
    The logo plot will show the most conserved positions in the alignment.
 
