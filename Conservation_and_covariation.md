@@ -2,18 +2,9 @@
 **Goal:** In this exercise we will use the list of pdb entries that are classified as Hemerythrin according to Pfam (Pfam code: PF01814). \
 We will use one pdb code per macromolecule. \
 This is the **[list](https://www.ebi.ac.uk/pdbe/entry/search/index/?searchParams=%7B%22q_all_sequence_family%22:%5B%7B%22value%22:%22PF01814%20:%20Hemerythrin%22,%22condition1%22:%22AND%22,%22condition2%22:%22Contains%22%7D%5D,%22resultState%22:%7B%22tabIndex%22:1,%22paginationIndex%22:1,%22perPage%22:%2210%22%7D%7D)** of pdb codes that we will use: \
-``3AGTB \
-2HMQA \
-4XPXA \
-2MHRA \
-6TYJA \
-2P0NB \
-3CAXA \
-3U9JB \
-5FNPA \
-4XWJA``
+``3agtB \ 2hmqA \ 4xpxA \ 2mhrA \ 6tyjA \ 2p0nB \ 3caxA \ 3u9jB \ 4xwjA``
 
-> *We will exclude from this search all pdb extries related to the Iron-sulfur cluster repair protein YtfE (5fnn, 5fny, 5fnp) and pdb entries related to the Uncharacterized protein PF0695 (3cax). These proteins are structurally different. If we want to include them in a multiple structure alignment, further refinement steps are required.*
+> *We will exclude from this search all pdb extries related to the Iron-sulfur cluster repair protein YtfE (5fnn, 5fny, 5fnp). These proteins are structurally different. If we want to include them in a multiple structure alignment, further refinement steps are required.*
 
 **1. Go to the [MATRAS](http://strcomp.protein.osaka-u.ac.jp/matras/) web page.** \
 We want to calculate a Multiple Sequence Alignment. On the menu, locate the [Multiple 3D Alignment link](http://strcomp.protein.osaka-u.ac.jp/matras/matras_multi.html), and click to go to the algorithm page. 
@@ -21,19 +12,20 @@ We want to calculate a Multiple Sequence Alignment. On the menu, locate the [Mul
 
 **2. Enter one representative pdb code per macromolecule.**
 
-  ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/MATRAS_input_C.png)
+  ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/Hemerytrin_in_MATRAS.png)
 
 **3. Examine the results.**
-Matras outputs a structure-based multiple sequence alignment in a special file format. \
-We have transformed this multiple sequence alignment into a [fasta file format](https://github.com/Claualvarez/ECCB2020/blob/master/Files/hemerythrin_rep_seqs.matras.fa). 
+Matras outputs a structure-based multiple sequence alignment in a special file format. To examine the MATAS output click [here](https://github.com/Claualvarez/ECCB2020/blob/master/Files/MATRAS_default_output.txt) \
+We have transformed this multiple sequence alignment into a [fasta file format](). 
 These proteins are very distantly related! Hemerytrins and hemerythrin-like domains form a large and diverse superfamily of folds. \
 Only a few amino acid positions are conserved.
 
-  ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/MATRAS_output_C.png)
+  ![]()
   
 **4. Download and examine the [fasta file format](https://github.com/Claualvarez/ECCB2020/blob/master/Files/hemerythrin_rep_seqs.matras.trimmed.fa) of the multiple sequence alignment that we calculated using matras.**
 
 **What can we do with this structue-based multiple sequence alignment?**
+
 
 
 - Search homologous sequences in [hhblits](https://toolkit.tuebingen.mpg.de/jobs/hemerythrin).
