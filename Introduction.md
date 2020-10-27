@@ -58,7 +58,7 @@ Is time to download the atomic coordinate file of our protein of interest
 
 ______
 ## Quick links
-Next on the scedule: [Searching for homologous protein structures](https://github.com/Claualvarez/ECCB2020/blob/master/Searching.md)
+Next on the schedule: [Searching for homologous protein structures](https://github.com/Claualvarez/ECCB2020/blob/master/Searching.md)
 
 _______
 ## Further reading
