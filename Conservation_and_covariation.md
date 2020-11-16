@@ -1,5 +1,5 @@
 # From structure to sequence
-**Goal:** In this exercise we will use the list of pdb entries that are classified as Hemerythrin according to Pfam (Pfam code: PF01814). \
+**Goal:** In this exercise we will use the list of pdb entries that are classified as Hemerythrin according to Pfam (Pfam code: PF01814) to construct a highly-refined multiple sequence alignment. \
 We will use one pdb code per macromolecule. \
 This is the **[list](https://www.ebi.ac.uk/pdbe/entry/search/index/?searchParams=%7B%22q_all_sequence_family%22:%5B%7B%22value%22:%22PF01814%20:%20Hemerythrin%22,%22condition1%22:%22AND%22,%22condition2%22:%22Contains%22%7D%5D,%22resultState%22:%7B%22tabIndex%22:1,%22paginationIndex%22:1,%22perPage%22:%2210%22%7D%7D)** of pdb codes that we will use: \
 ``3agtB \ 2hmqA \ 4xpxA \ 2mhrA \ 6tyjA \ 2p0nB \ 3caxA \ 3u9jB \ 4xwjA``
