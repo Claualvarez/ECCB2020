@@ -8,7 +8,7 @@ This is the **[list](https://www.ebi.ac.uk/pdbe/entry/search/index/?searchParams
 
 ## Exercise 1: Compute a structure-based multiple sequence alignment
 **1. Go to the [MATRAS](http://strcomp.protein.osaka-u.ac.jp/matras/) web page.** \
-We want to calculate a Multiple Sequence Alignment. On the menu, locate the [Multiple 3D Alignment link](http://strcomp.protein.osaka-u.ac.jp/matras/matras_multi.html), and click to go to the algorithm page. 
+We want to calculate a Multiple Sequence Alignment. On the menu, locate the [Multiple 3D Alignment link](http://strcomp.protein.osaka-u.ac.jp/matras/matras_multi.html). 
   ![](https://github.com/Claualvarez/ECCB2020/blob/master/Figures/MATRAS_homepage.png)
 
 **2. Enter one representative pdb code per macromolecule.**
@@ -18,7 +18,8 @@ We want to calculate a Multiple Sequence Alignment. On the menu, locate the [Mul
 **3. Examine the results.**
 Matras outputs a structure-based multiple sequence alignment in a special file format. To examine the MATAS output click [here](https://github.com/Claualvarez/ECCB2020/blob/master/Files/MATRAS_default_output.txt) \
 We have transformed this multiple sequence alignment into a [fasta file format](https://github.com/Claualvarez/ECCB2020/blob/master/Files/MATRAS_output_example.fa). 
-These proteins are very distantly related! Hemerytrins and hemerythrin-like domains form a large and diverse superfamily of folds. \
+These proteins are very distantly related! \
+Hemerytrins and hemerythrin-like domains form a large and diverse superfamily of folds. \
 Only a few amino acid positions are conserved.
 
  
@@ -27,7 +28,7 @@ Only a few amino acid positions are conserved.
 
 **What can we do with this structue-based multiple sequence alignment?** \
 This multiple sequence alignment has very few sequences, but we can use this MSA to *seed* a larger multiple sequence alignment. \
-For the following exercises we will use our small structure-based multiple sequence alignment, but keep in mind that you can realign a larger dataset of sequences using a *seed* with mafft add.
+For the following exercises, we will use our small structure-based multiple sequence alignment, but keep in mind that you can realign a larger dataset of sequences using a *seed* with mafft add.
 
 ## Exercise 2: Use the structure-based MSA to calculate a phylogeny.
 **1. Go to the MPI Boioinformatics toolkit page, on the ``Classification`` tab select the program [PhyML](https://toolkit.tuebingen.mpg.de/tools/phyml).**
