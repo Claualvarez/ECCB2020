@@ -25,7 +25,9 @@ Only a few amino acid positions are conserved.
   
 **4. Download and examine the [fasta file format](https://github.com/Claualvarez/ECCB2020/blob/master/Files/MATRAS_output_example.fa) of the multiple sequence alignment that we calculated using matras.**
 
-**What can we do with this structue-based multiple sequence alignment?**
+**What can we do with this structue-based multiple sequence alignment?** \
+This multiple sequence alignment has very few sequences, but we can use this MSA to *seed* a larger multiple sequence alignment. \
+For the following exercises we will use our small structure-based multiple sequence alignment, but keep in mind that you can realign a larger dataset of sequences using a *seed* with mafft add.
 
 ## Exercise 2: Use the structure-based MSA to calculate a phylogeny.
 **1. Go to the MPI Boioinformatics toolkit page, on the ``Classification`` tab select the program [PhyML](https://toolkit.tuebingen.mpg.de/tools/phyml).**
