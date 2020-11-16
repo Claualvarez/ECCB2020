@@ -32,7 +32,7 @@ For the following exercises we will use our small structure-based multiple seque
 ## Exercise 2: Use the structure-based MSA to calculate a phylogeny.
 **1. Go to the MPI Boioinformatics toolkit page, on the ``Classification`` tab select the program [PhyML](https://toolkit.tuebingen.mpg.de/tools/phyml).**
 
-**2. Paste or upload the structue-based multiple sequence alignment (in FASTA format) that we previously calculated with MATAS.**
+**2. Paste or upload the structue-based multiple sequence alignment (in FASTA format) that we previously calculated with MATRAS.**
 
 **3. Examine the [results](https://toolkit.tuebingen.mpg.de/jobs/hemerythrins_matras)**
 
